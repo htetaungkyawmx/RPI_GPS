@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GPS Map UI</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <style>
+        #map { height: 600px; width: 100%; }
+        .info { position: absolute; top: 10px; left: 10px; background: white; padding: 10px; z-index: 1000; }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    <div class="info" id="gps-info">
+        <h3>GPS Data</h3>
+        <p id="timestamp">Timestamp: N/A</p>
+        <p id="device-id">Device ID: N/A</p>
+        <h4>Top GPS (/dev/ttyACM0)</h4>
+        <p id="top-lat">Latitude: N/A</p>
+        <p id="top-lon">Longitude: N/A</p>
+        <p id="top-alt">Altitude: N/A</p>
+        <p id="top-speed">Speed: N/A</p>
+        <p id="top-sat">Satellites: N/A</p>
+        <h4>Bottom GPS (/dev/ttyACM1)</h4>
+        <p id="bottom-lat">Latitude: N/A</p>
+        <p id="bottom-lon">Longitude: N/A</p>
+        <p id="bottom-alt">Altitude: N/A</p>
+        <p id="bottom-speed">Speed: N/A</p>
+        <p id="bottom-sat">Satellites: N/A</p>
+    </div>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script>
+        // Initialize the map
+        const map = L.map('map').setView([16.8167, 96.1927], 15); // Center on initial GPS coords
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+        }).addTo(map);
+
+        // Initialize markers
+        let topMarker = L.marker([16.8167, 96.1927], {
+            icon: L.divIcon({ className: 'top-gps', html: '<b>Top GPS</b>', iconSize: [100, 20] })
+        }).addTo(map);
+        let bottomMarker = L.marker([16.8167, 96.1927], {
+            icon: L.divIcon({ className: 'bottom-gps', html: '<b>Bottom GPS</b>', iconSize: [100, 20] })
+        }).addTo(map);
+
+        // WebSocket connection
+        let ws = new WebSocket('ws://192.168.0.226:8765');
+
+        ws.onopen = () => {
+            console.log('Connected to WebSocket server');
+        };
+
+        ws.onmessage = (event) => {
+            try {
+                const data = JSON.parse(event.data);
+                console.log('Received:', data);
+
+                // Update info panel
+                document.getElementById('timestamp').textContent = `Timestamp: ${data.timestamp || 'N/A'}`;
+                document.getElementById('device-id').textContent = `Device ID: ${data.device_id || 'N/A'}`;
+                document.getElementById('top-lat').textContent = `Latitude: ${data.top_gps.latitude || 'N/A'}`;
+                document.getElementById('top-lon').textContent = `Longitude: ${data.top_gps.longitude || 'N/A'}`;
+                document.getElementById('top-alt').textContent = `Altitude: ${data.top_gps.altitude || 'N/A'} m`;
+                document.getElementById('top-speed').textContent = `Speed: ${data.top_gps.speed || 'N/A'} km/h`;
+                document.getElementById('top-sat').textContent = `Satellites: ${data.top_gps.satellites || 'N/A'}`;
+                document.getElementById('bottom-lat').textContent = `Latitude: ${data.bottom_gps.latitude || 'N/A'}`;
+                document.getElementById('bottom-lon').textContent = `Longitude: ${data.bottom_gps.longitude || 'N/A'}`;
+                document.getElementById('bottom-alt').textContent = `Altitude: ${data.bottom_gps.altitude || 'N/A'} m`;
+                document.getElementById('bottom-speed').textContent = `Speed: ${data.bottom_gps.speed || 'N/A'} km/h`;
+                document.getElementById('bottom-sat').textContent = `Satellites: ${data.bottom_gps.satellites || 'N/A'}`;
+
+                // Update markers if valid coordinates
+                if (data.top_gps.latitude && data.top_gps.longitude) {
+                    topMarker.setLatLng([data.top_gps.latitude, data.top_gps.longitude]);
+                    map.panTo([data.top_gps.latitude, data.top_gps.longitude]);
+                }
+                if (data.bottom_gps.latitude && data.bottom_gps.longitude) {
+                    bottomMarker.setLatLng([data.bottom_gps.latitude, data.bottom_gps.longitude]);
+                }
+            } catch (e) {
+                console.error('Error parsing WebSocket message:', e);
+            }
+        };
+
+        ws.onerror = (error) => {
+            console.error('WebSocket error:', error);
+        };
+
+        ws.onclose = () => {
+            console.log('WebSocket closed, attempting to reconnect...');
+            setTimeout(() => {
+                ws = new WebSocket('ws://192.168.0.226:8765');
+            }, 5000);
+        };
+    </script>
+</body>
+</html>
