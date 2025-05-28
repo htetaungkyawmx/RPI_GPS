@@ -1,0 +1,80 @@
+    asyncio.run(main())
+  File "/usr/lib/python3.11/asyncio/runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/home/mdt/gps_websocket.py", line 357, in main
+    await asyncio.gather(
+  File "/usr/lib/python3.11/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mdt/gps_websocket.py", line 238, in process_gps_data
+    session = gps3.GPSDSocket()
+              ^^^^^^^^^^^^^^^
+AttributeError: module 'gps3' has no attribute 'GPSDSocket'
+2025-05-28 11:10:45 - ERROR: GPS and WebSocket server failed to start. Check /home/mdt/gps_auto_start.log for details.
+    asyncio.run(main())
+  File "/usr/lib/python3.11/asyncio/runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/home/mdt/gps_websocket.py", line 357, in main
+    await asyncio.gather(
+  File "/usr/lib/python3.11/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mdt/gps_websocket.py", line 238, in process_gps_data
+    session = gps3.GPSDSocket()
+              ^^^^^^^^^^^^^^^
+AttributeError: module 'gps3' has no attribute 'GPSDSocket'
+2025-05-28 11:11:08 - ERROR: GPS and WebSocket server failed to start. Check /home/mdt/gps_auto_start.log for details.
+    asyncio.run(main())
+  File "/usr/lib/python3.11/asyncio/runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/home/mdt/gps_websocket.py", line 357, in main
+    await asyncio.gather(
+  File "/usr/lib/python3.11/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mdt/gps_websocket.py", line 238, in process_gps_data
+    session = gps3.GPSDSocket()
+              ^^^^^^^^^^^^^^^
+AttributeError: module 'gps3' has no attribute 'GPSDSocket'
+2025-05-28 11:13:56 - ERROR: GPS and WebSocket server failed to start. Check /home/mdt/gps_auto_start.log for details.
+              ^^^^^^^^^^^^^^^
+AttributeError: module 'gps3' has no attribute 'GPSDSocket'
+2025-05-28 11:13:56 - ERROR: GPS and WebSocket server failed to start. Check /home/mdt/gps_auto_start.log for details.
+2025-05-28 11:19:43 - Starting GPS auto-start script
+2025-05-28 11:19:43 - Activated virtual environment at /home/mdt/gps_venv
+2025-05-28 11:19:43 - Installing missing package: gps3
+2025-05-28 11:19:47 - Installing missing package: websocket_client
+2025-05-28 11:19:49 - Detected GPS devices: /dev/ttyACM0
+/dev/ttyACM1
+2025-05-28 11:19:49 - Set baud rate to 9600 for /dev/ttyACM0
+2025-05-28 11:19:49 - Set baud rate to 9600 for /dev/ttyACM1
+2025-05-28 11:19:50 - Stopped any existing gpsd instances
+2025-05-28 11:19:50 - Started gpsd with devices: /dev/ttyACM0
+/dev/ttyACM1
+2025-05-28 11:19:50 - Started GPS and WebSocket server (PID: 2885)
+Traceback (most recent call last):
+  File "/home/mdt/gps_websocket.py", line 1, in <module>
+    import gps
+ModuleNotFoundError: No module named 'gps'
+2025-05-28 11:19:55 - ERROR: GPS and WebSocket server failed to start. Check /home/mdt/gps_auto_start.log for details.

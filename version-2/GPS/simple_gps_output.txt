@@ -1,0 +1,473 @@
+GPS Data (Real-Time): 2025-05-22 07:32:25.795650
+Device: Unknown
+
+GPS Data (Real-Time): 2025-05-22 07:32:26.797077
+Device: Unknown
+
+GPS Data (Real-Time): 2025-05-22 07:32:27.802281
+Device: Unknown
+
+GPS Data (Real-Time): 2025-05-22 07:32:28.803381
+Device: /dev/ttyACM0
+Latitude: Unknown
+Longitude: Unknown
+Altitude (m): Unknown
+Speed (km/h): Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:32:29.804510
+Device: /dev/ttyACM0
+Satellites: 1
+
+GPS Data (Real-Time): 2025-05-22 07:32:30.805724
+Device: /dev/ttyACM1
+Latitude: Unknown
+Longitude: Unknown
+Altitude (m): Unknown
+Speed (km/h): Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:32:31.807732
+Device: /dev/ttyACM1
+Satellites: 0
+
+GPS Data (Real-Time): 2025-05-22 07:32:32.811451
+Device: /dev/ttyACM0
+Latitude: Unknown
+Longitude: Unknown
+Altitude (m): Unknown
+Speed (km/h): Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:32:33.813319
+Device: /dev/ttyACM0
+Satellites: 1
+
+GPS Data (Real-Time): 2025-05-22 07:46:21.755433
+Device: Unknown
+
+GPS Data (Real-Time): 2025-05-22 07:46:22.756870
+Device: Unknown
+
+GPS Data (Real-Time): 2025-05-22 07:46:23.757837
+Device: Unknown
+
+GPS Data (Real-Time): 2025-05-22 07:46:24.758838
+Device: /dev/ttyACM0
+Latitude: Unknown
+Longitude: Unknown
+Altitude (m): Unknown
+Speed (km/h): Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:46:25.759945
+Device: /dev/ttyACM0
+Satellites: 0
+
+GPS Data (Real-Time): 2025-05-22 07:46:26.761087
+Device: /dev/ttyACM1
+Latitude: Unknown
+Longitude: Unknown
+Altitude (m): Unknown
+Speed (km/h): Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:46:27.763016
+Device: /dev/ttyACM1
+Satellites: 0
+
+GPS Data (Real-Time): 2025-05-22 08:14:56.799235
+Device: Unknown
+
+GPS Data (Real-Time): 2025-05-22 08:14:57.801281
+Device: Unknown
+
+GPS Data (Real-Time): 2025-05-22 08:14:58.802257
+Device: Unknown
+
+GPS Data (Real-Time): 2025-05-22 08:14:59.803274
+Device: /dev/ttyACM1
+Latitude: Unknown
+Longitude: Unknown
+Altitude (m): Unknown
+Speed (km/h): Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 08:15:05.838851
+Device: Unknown
+
+GPS Data (Real-Time): 2025-05-22 08:15:06.840099
+Device: Unknown
+
+GPS Data (Real-Time): 2025-05-22 08:15:07.841095
+Device: Unknown
+
+GPS Data (Real-Time): 2025-05-22 08:15:08.842318
+Device: /dev/ttyACM1
+Latitude: Unknown
+Longitude: Unknown
+Altitude (m): Unknown
+Speed (km/h): Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 08:53:18.955563
+Device: Unknown
+
+GPS Data (Real-Time): 2025-05-22 08:53:19.957312
+Device: Unknown
+
+GPS Data (Real-Time): 2025-05-22 08:53:20.961816
+Device: Unknown
+
+GPS Data (Real-Time): 2025-05-22 08:53:33.103292
+Device: Unknown
+
+GPS Data (Real-Time): 2025-05-22 08:53:34.104230
+Device: Unknown
+
+GPS Data (Real-Time): 2025-05-22 08:53:35.105141
+Device: Unknown
+
+GPS Data (Real-Time): 2025-05-22 09:26:53.103014
+Device: Unknown
+
+GPS Data (Real-Time): 2025-05-22 09:26:54.107629
+Device: Unknown
+
+GPS Data (Real-Time): 2025-05-22 09:26:55.108617
+Device: Unknown
+
+GPS Data (Real-Time): 2025-05-26 04:51:48.672861
+Device: Unknown
+
+GPS Data (Real-Time): 2025-05-26 04:51:49.679618
+Device: Unknown
+
+GPS Data (Real-Time): 2025-05-26 04:51:50.680653
+Device: Unknown
+
+GPS Data (Real-Time): 2025-05-26 04:51:51.681743
+Device: /dev/ttyACM1
+Latitude: 16.816577
+Longitude: 96.1926849
+Altitude (m): 15.546
+Speed (km/h): 2.4048000000000003
+Heading: 35.1223°
+
+GPS Data (Real-Time): 2025-05-26 04:51:52.683017
+Device: /dev/ttyACM1
+Satellites: 25
+
+GPS Data (Real-Time): 2025-05-26 04:51:53.684328
+Device: /dev/ttyACM0
+Latitude: 16.8166402
+Longitude: 96.1927107
+Altitude (m): 16.72
+Speed (km/h): 0.9072
+Heading: 239.9352°
+
+GPS Data (Real-Time): 2025-05-26 04:51:54.686351
+Device: /dev/ttyACM0
+Satellites: 25
+
+GPS Data (Real-Time): 2025-05-26 04:51:55.687480
+Device: /dev/ttyACM1
+Latitude: 16.8165786
+Longitude: 96.1926998
+Altitude (m): 15.375
+Speed (km/h): 3.8304000000000005
+Heading: 35.1223°
+
+GPS Data (Real-Time): 2025-05-26 04:51:56.688715
+Device: /dev/ttyACM1
+Satellites: 25
+
+GPS Data (Real-Time): 2025-05-26 04:51:57.689752
+Device: /dev/ttyACM0
+Latitude: 16.8166388
+Longitude: 96.1927102
+Altitude (m): 17.051
+Speed (km/h): 0.30600000000000005
+Heading: 239.9352°
+
+GPS Data (Real-Time): 2025-05-26 04:51:58.690974
+Device: /dev/ttyACM0
+Satellites: 25
+
+GPS Data (Real-Time): 2025-05-26 04:51:59.691895
+Device: /dev/ttyACM1
+Latitude: 16.8165745
+Longitude: 96.192706
+Altitude (m): 14.601
+Speed (km/h): 3.9600000000000004
+Heading: 35.1223°
+
+GPS Data (Real-Time): 2025-05-26 04:52:00.693055
+Device: /dev/ttyACM1
+Satellites: 25
+
+GPS Data (Real-Time): 2025-05-26 04:52:01.694054
+Device: /dev/ttyACM0
+Latitude: 16.8166383
+Longitude: 96.1927107
+Altitude (m): 17.519
+Speed (km/h): 0.12240000000000001
+Heading: 239.9352°
+
+GPS Data (Real-Time): 2025-05-26 04:52:02.695192
+Device: /dev/ttyACM0
+Satellites: 25
+
+GPS Data (Real-Time): 2025-05-26 04:52:03.696209
+Device: /dev/ttyACM1
+Latitude: 16.8165697
+Longitude: 96.1927136
+Altitude (m): 14.149
+Speed (km/h): 4.0284
+Heading: 35.1223°
+
+GPS Data (Real-Time): 2025-05-26 04:52:04.697916
+Device: /dev/ttyACM1
+Satellites: 25
+
+GPS Data (Real-Time): 2025-05-26 04:52:05.699405
+Device: /dev/ttyACM0
+Latitude: 16.8166381
+Longitude: 96.1927112
+Altitude (m): 17.908
+Speed (km/h): 0.1872
+Heading: 239.9352°
+
+GPS Data (Real-Time): 2025-05-26 04:52:06.700602
+Device: /dev/ttyACM0
+Satellites: 25
+
+GPS Data (Real-Time): 2025-05-26 04:52:07.701500
+Device: /dev/ttyACM1
+Latitude: 16.8165735
+Longitude: 96.1927162
+Altitude (m): 13.547
+Speed (km/h): 3.1464
+Heading: 35.1223°
+
+GPS Data (Real-Time): 2025-05-26 04:52:08.702655
+Device: /dev/ttyACM1
+Satellites: 25
+
+GPS Data (Real-Time): 2025-05-26 04:52:09.703619
+Device: /dev/ttyACM0
+Latitude: 16.816637
+Longitude: 96.1927111
+Altitude (m): 18.193
+Speed (km/h): 0.36360000000000003
+Heading: 239.9352°
+
+GPS Data (Real-Time): 2025-05-26 04:52:10.705196
+Device: /dev/ttyACM0
+Satellites: 25
+
+GPS Data (Real-Time): 2025-05-26 04:52:11.706761
+Device: /dev/ttyACM1
+Latitude: 16.8165685
+Longitude: 96.1927162
+Altitude (m): 12.427
+Speed (km/h): 2.8332
+Heading: 35.1223°
+
+GPS Data (Real-Time): 2025-05-26 04:52:12.708430
+Device: /dev/ttyACM1
+Satellites: 25
+
+GPS Data (Real-Time): 2025-05-26 04:52:13.709329
+Device: /dev/ttyACM0
+Latitude: 16.8166371
+Longitude: 96.1927124
+Altitude (m): 18.586
+Speed (km/h): 0.1404
+Heading: 239.9352°
+
+GPS Data (Real-Time): 2025-05-26 04:52:14.710548
+Device: /dev/ttyACM0
+Satellites: 25
+
+GPS Data (Real-Time): 2025-05-26 04:52:15.711509
+Device: /dev/ttyACM1
+Latitude: 16.8165672
+Longitude: 96.192717
+Altitude (m): 11.655
+Speed (km/h): 2.8224
+Heading: 35.1223°
+
+GPS Data (Real-Time): 2025-05-26 04:52:16.712803
+Device: /dev/ttyACM1
+Satellites: 25
+
+GPS Data (Real-Time): 2025-05-26 04:52:17.713947
+Device: /dev/ttyACM0
+Latitude: 16.816637
+Longitude: 96.1927139
+Altitude (m): 19.008
+Speed (km/h): 0.3852
+Heading: 239.9352°
+
+GPS Data (Real-Time): 2025-05-26 04:52:18.715588
+Device: /dev/ttyACM0
+Satellites: 25
+
+GPS Data (Real-Time): 2025-05-26 04:52:19.716551
+Device: /dev/ttyACM1
+Latitude: 16.8165713
+Longitude: 96.1927143
+Altitude (m): 10.744
+Speed (km/h): 1.8828
+Heading: 35.1223°
+
+GPS Data (Real-Time): 2025-05-26 04:54:30.682729
+Device: Unknown
+
+GPS Data (Real-Time): 2025-05-26 04:54:31.684860
+Device: Unknown
+
+GPS Data (Real-Time): 2025-05-26 04:54:32.685890
+Device: Unknown
+
+GPS Data (Real-Time): 2025-05-26 04:54:33.686975
+Device: /dev/ttyACM1
+Latitude: 16.8166552
+Longitude: 96.1929412
+Altitude (m): 37.427
+Speed (km/h): 0.9216000000000001
+Heading: 35.1223°
+
+GPS Data (Real-Time): 2025-05-26 04:54:34.688280
+Device: /dev/ttyACM1
+Satellites: 25
+
+GPS Data (Real-Time): 2025-05-26 04:54:35.689688
+Device: /dev/ttyACM0
+Latitude: 16.8166309
+Longitude: 96.1927299
+Altitude (m): 15.346
+Speed (km/h): 0.1188
+Heading: 239.9352°
+
+GPS Data (Real-Time): 2025-05-26 04:54:36.691860
+Device: /dev/ttyACM0
+Satellites: 25
+
+GPS Data (Real-Time): 2025-05-26 04:54:37.692897
+Device: /dev/ttyACM1
+Latitude: 16.8166472
+Longitude: 96.1929406
+Altitude (m): 37.622
+Speed (km/h): 1.3824
+Heading: 35.1223°
+
+GPS Data (Real-Time): 2025-05-26 04:54:38.694236
+Device: /dev/ttyACM1
+Satellites: 25
+
+GPS Data (Real-Time): 2025-05-26 04:54:39.695232
+Device: /dev/ttyACM0
+Latitude: 16.8166296
+Longitude: 96.1927285
+Altitude (m): 15.117
+Speed (km/h): 0.3852
+Heading: 239.9352°
+
+GPS Data (Real-Time): 2025-05-26 04:54:40.696512
+Device: /dev/ttyACM0
+Satellites: 25
+
+GPS Data (Real-Time): 2025-05-26 04:54:41.697829
+Device: /dev/ttyACM1
+Latitude: 16.816642
+Longitude: 96.1929212
+Altitude (m): 37.952
+Speed (km/h): 2.0808
+Heading: 35.1223°
+
+GPS Data (Real-Time): 2025-05-26 04:54:42.700436
+Device: /dev/ttyACM1
+Satellites: 25
+
+GPS Data (Real-Time): 2025-05-26 04:54:43.702444
+Device: /dev/ttyACM0
+Latitude: 16.8166287
+Longitude: 96.1927272
+Altitude (m): 15.046
+Speed (km/h): 0.31679999999999997
+Heading: 239.9352°
+
+GPS Data (Real-Time): 2025-05-26 04:54:44.705104
+Device: /dev/ttyACM0
+Satellites: 25
+
+GPS Data (Real-Time): 2025-05-26 04:54:45.707171
+Device: /dev/ttyACM1
+Latitude: 16.8166419
+Longitude: 96.1929219
+Altitude (m): 38.174
+Speed (km/h): 1.4580000000000002
+Heading: 35.1223°
+
+GPS Data (Real-Time): 2025-05-26 04:54:46.709122
+Device: /dev/ttyACM1
+Satellites: 25
+
+GPS Data (Real-Time): 2025-05-26 04:54:47.710187
+Device: /dev/ttyACM0
+Latitude: 16.8166279
+Longitude: 96.1927271
+Altitude (m): 15.037
+Speed (km/h): 0.5364
+Heading: 239.9352°
+
+GPS Data (Real-Time): 2025-05-26 04:54:48.711375
+Device: /dev/ttyACM0
+Satellites: 25
+
+GPS Data (Real-Time): 2025-05-26 04:55:04.511202
+Device: Unknown
+
+GPS Data (Real-Time): 2025-05-26 04:55:05.512624
+Device: Unknown
+
+GPS Data (Real-Time): 2025-05-26 04:55:06.513703
+Device: Unknown
+
+GPS Data (Real-Time): 2025-05-26 04:55:07.515635
+Device: /dev/ttyACM1
+Latitude: 16.8166731
+Longitude: 96.1929163
+Altitude (m): 40.212
+Speed (km/h): 0.6084
+Heading: 35.1223°
+
+GPS Data (Real-Time): 2025-05-26 04:55:08.518649
+Device: /dev/ttyACM1
+Satellites: 25
+
+GPS Data (Real-Time): 2025-05-26 04:55:09.520766
+Device: /dev/ttyACM0
+Latitude: 16.8166181
+Longitude: 96.1927173
+Altitude (m): 14.243
+Speed (km/h): 1.0728
+Heading: 239.9352°
+
+GPS Data (Real-Time): 2025-05-26 04:55:10.523984
+Device: /dev/ttyACM0
+Satellites: 25
+
+GPS Data (Real-Time): 2025-05-26 04:55:11.525005
+Device: /dev/ttyACM1
+Latitude: 16.8166759
+Longitude: 96.1929371
+Altitude (m): 40.984
+Speed (km/h): 1.278
+Heading: 35.1223°
+
+GPS Data (Real-Time): 2025-05-26 04:55:12.526361
+Device: /dev/ttyACM1
+Satellites: 25
