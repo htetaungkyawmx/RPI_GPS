@@ -1,0 +1,405 @@
+2025-05-26 09:51:37,507 - INFO - Starting gps_dual.py
+2025-05-26 09:51:38,076 - INFO - Starting collect_nmea_data
+2025-05-26 09:51:38,076 - INFO - Starting gpsd attempt 1 with devices: ['/dev/ttyACM0', '/dev/ttyACM1']
+2025-05-26 09:51:56,131 - ERROR - gpsd exited prematurely: stdout=, stderr=gpsd:PROG: control socket opened at /var/run/gpsd.sock
+
+2025-05-26 09:51:56,132 - INFO - Starting gpsd attempt 2 with devices: ['/dev/ttyACM0', '/dev/ttyACM1']
+2025-05-26 09:52:14,230 - ERROR - gpsd exited prematurely: stdout=, stderr=gpsd:PROG: control socket opened at /var/run/gpsd.sock
+
+2025-05-26 09:52:14,231 - INFO - Starting gpsd attempt 3 with devices: ['/dev/ttyACM0', '/dev/ttyACM1']
+2025-05-26 09:52:19,958 - INFO - Stopping GPS data collection
+2025-05-26 09:54:03,917 - INFO - Starting gps_dual.py
+2025-05-26 09:54:04,542 - INFO - Starting collect_nmea_data
+2025-05-26 09:54:04,542 - INFO - Starting gpsd attempt 1 with devices: ['/dev/ttyACM0', '/dev/ttyACM1']
+2025-05-26 09:54:22,608 - ERROR - gpsd exited prematurely: stdout=, stderr=gpsd:PROG: control socket opened at /var/run/gpsd.sock
+
+2025-05-26 09:54:22,609 - INFO - Starting gpsd attempt 2 with devices: ['/dev/ttyACM0', '/dev/ttyACM1']
+2025-05-26 09:54:24,587 - INFO - Stopping GPS data collection
+2025-05-26 09:55:02,397 - INFO - Starting gps_dual.py
+2025-05-26 09:55:03,178 - INFO - Starting collect_nmea_data
+2025-05-26 09:55:03,179 - INFO - Starting gpsd attempt 1 with devices: ['/dev/ttyACM0', '/dev/ttyACM1']
+2025-05-26 09:55:07,816 - INFO - Starting gps_dual.py
+2025-05-26 09:55:08,578 - INFO - Starting collect_nmea_data
+2025-05-26 09:55:08,578 - INFO - Starting gpsd attempt 1 with devices: ['/dev/ttyACM0', '/dev/ttyACM1']
+2025-05-26 09:55:21,237 - ERROR - gpsd exited prematurely: stdout=, stderr=gpsd:PROG: control socket opened at /var/run/gpsd.sock
+
+2025-05-26 09:55:21,238 - INFO - Starting gpsd attempt 2 with devices: ['/dev/ttyACM0', '/dev/ttyACM1']
+2025-05-26 09:55:26,656 - ERROR - gpsd exited prematurely: stdout=, stderr=gpsd:PROG: control socket opened at /var/run/gpsd.sock
+
+2025-05-26 09:55:26,656 - INFO - Starting gpsd attempt 2 with devices: ['/dev/ttyACM0', '/dev/ttyACM1']
+2025-05-26 09:55:54,043 - ERROR - gpsd exited prematurely: stdout=, stderr=gpsd:PROG: control socket opened at /var/run/gpsd.sock
+
+2025-05-26 09:55:54,044 - INFO - Starting gpsd attempt 3 with devices: ['/dev/ttyACM0', '/dev/ttyACM1']
+2025-05-26 09:55:59,412 - ERROR - gpsd exited prematurely: stdout=, stderr=gpsd:PROG: control socket opened at /var/run/gpsd.sock
+
+2025-05-26 09:55:59,412 - INFO - Starting gpsd attempt 3 with devices: ['/dev/ttyACM0', '/dev/ttyACM1']
+2025-05-26 09:56:03,884 - INFO - Starting gps_dual.py
+2025-05-26 09:56:04,494 - INFO - Starting collect_nmea_data
+2025-05-26 09:56:04,494 - INFO - Starting gpsd attempt 1 with devices: ['/dev/ttyACM0', '/dev/ttyACM1']
+2025-05-26 09:56:04,857 - INFO - Stopping GPS data collection
+2025-05-26 09:56:07,939 - INFO - Starting gps_dual.py
+2025-05-26 09:56:08,527 - INFO - Starting collect_nmea_data
+2025-05-26 09:56:08,527 - INFO - Starting gpsd attempt 1 with devices: ['/dev/ttyACM0', '/dev/ttyACM1']
+2025-05-26 09:56:12,100 - ERROR - gpsd exited prematurely: stdout=, stderr=gpsd:PROG: control socket opened at /var/run/gpsd.sock
+
+2025-05-26 09:56:12,101 - ERROR - Cannot start gpsd after 3 attempts
+2025-05-26 09:56:12,105 - ERROR - Failed to start gpsd, exiting
+2025-05-26 09:56:17,466 - ERROR - gpsd exited prematurely: stdout=, stderr=gpsd:PROG: control socket opened at /var/run/gpsd.sock
+
+2025-05-26 09:56:17,467 - ERROR - Cannot start gpsd after 3 attempts
+2025-05-26 09:56:17,472 - ERROR - Failed to start gpsd, exiting
+2025-05-26 09:56:26,585 - ERROR - gpsd exited prematurely: stdout=, stderr=gpsd:PROG: control socket opened at /var/run/gpsd.sock
+
+2025-05-26 09:56:26,586 - INFO - Starting gpsd attempt 2 with devices: ['/dev/ttyACM0', '/dev/ttyACM1']
+2025-05-26 09:56:29,054 - INFO - Stopping GPS data collection
+2025-05-26 11:21:48,666 - INFO - Starting simple_gps.py
+2025-05-26 11:21:48,672 - INFO - Connected to gpsd
+2025-05-26 11:21:48,673 - INFO - GPS Data (Real-Time): 2025-05-26 04:51:48.672861
+Device: Unknown
+
+2025-05-26 11:21:49,679 - INFO - GPS Data (Real-Time): 2025-05-26 04:51:49.679618
+Device: Unknown
+
+2025-05-26 11:21:50,680 - INFO - GPS Data (Real-Time): 2025-05-26 04:51:50.680653
+Device: Unknown
+
+2025-05-26 11:21:51,681 - INFO - GPS Data (Real-Time): 2025-05-26 04:51:51.681743
+Device: /dev/ttyACM1
+Latitude: 16.816577
+Longitude: 96.1926849
+Altitude (m): 15.546
+Speed (km/h): 2.4048000000000003
+Heading: 35.1223°
+
+2025-05-26 11:21:52,683 - INFO - GPS Data (Real-Time): 2025-05-26 04:51:52.683017
+Device: /dev/ttyACM1
+Satellites: 25
+
+2025-05-26 11:21:53,684 - INFO - GPS Data (Real-Time): 2025-05-26 04:51:53.684328
+Device: /dev/ttyACM0
+Latitude: 16.8166402
+Longitude: 96.1927107
+Altitude (m): 16.72
+Speed (km/h): 0.9072
+Heading: 239.9352°
+
+2025-05-26 11:21:54,686 - INFO - GPS Data (Real-Time): 2025-05-26 04:51:54.686351
+Device: /dev/ttyACM0
+Satellites: 25
+
+2025-05-26 11:21:55,687 - INFO - GPS Data (Real-Time): 2025-05-26 04:51:55.687480
+Device: /dev/ttyACM1
+Latitude: 16.8165786
+Longitude: 96.1926998
+Altitude (m): 15.375
+Speed (km/h): 3.8304000000000005
+Heading: 35.1223°
+
+2025-05-26 11:21:56,688 - INFO - GPS Data (Real-Time): 2025-05-26 04:51:56.688715
+Device: /dev/ttyACM1
+Satellites: 25
+
+2025-05-26 11:21:57,689 - INFO - GPS Data (Real-Time): 2025-05-26 04:51:57.689752
+Device: /dev/ttyACM0
+Latitude: 16.8166388
+Longitude: 96.1927102
+Altitude (m): 17.051
+Speed (km/h): 0.30600000000000005
+Heading: 239.9352°
+
+2025-05-26 11:21:58,691 - INFO - GPS Data (Real-Time): 2025-05-26 04:51:58.690974
+Device: /dev/ttyACM0
+Satellites: 25
+
+2025-05-26 11:21:59,692 - INFO - GPS Data (Real-Time): 2025-05-26 04:51:59.691895
+Device: /dev/ttyACM1
+Latitude: 16.8165745
+Longitude: 96.192706
+Altitude (m): 14.601
+Speed (km/h): 3.9600000000000004
+Heading: 35.1223°
+
+2025-05-26 11:22:00,693 - INFO - GPS Data (Real-Time): 2025-05-26 04:52:00.693055
+Device: /dev/ttyACM1
+Satellites: 25
+
+2025-05-26 11:22:01,694 - INFO - GPS Data (Real-Time): 2025-05-26 04:52:01.694054
+Device: /dev/ttyACM0
+Latitude: 16.8166383
+Longitude: 96.1927107
+Altitude (m): 17.519
+Speed (km/h): 0.12240000000000001
+Heading: 239.9352°
+
+2025-05-26 11:22:02,695 - INFO - GPS Data (Real-Time): 2025-05-26 04:52:02.695192
+Device: /dev/ttyACM0
+Satellites: 25
+
+2025-05-26 11:22:03,696 - INFO - GPS Data (Real-Time): 2025-05-26 04:52:03.696209
+Device: /dev/ttyACM1
+Latitude: 16.8165697
+Longitude: 96.1927136
+Altitude (m): 14.149
+Speed (km/h): 4.0284
+Heading: 35.1223°
+
+2025-05-26 11:22:04,698 - INFO - GPS Data (Real-Time): 2025-05-26 04:52:04.697916
+Device: /dev/ttyACM1
+Satellites: 25
+
+2025-05-26 11:22:05,699 - INFO - GPS Data (Real-Time): 2025-05-26 04:52:05.699405
+Device: /dev/ttyACM0
+Latitude: 16.8166381
+Longitude: 96.1927112
+Altitude (m): 17.908
+Speed (km/h): 0.1872
+Heading: 239.9352°
+
+2025-05-26 11:22:06,700 - INFO - GPS Data (Real-Time): 2025-05-26 04:52:06.700602
+Device: /dev/ttyACM0
+Satellites: 25
+
+2025-05-26 11:22:07,701 - INFO - GPS Data (Real-Time): 2025-05-26 04:52:07.701500
+Device: /dev/ttyACM1
+Latitude: 16.8165735
+Longitude: 96.1927162
+Altitude (m): 13.547
+Speed (km/h): 3.1464
+Heading: 35.1223°
+
+2025-05-26 11:22:08,702 - INFO - GPS Data (Real-Time): 2025-05-26 04:52:08.702655
+Device: /dev/ttyACM1
+Satellites: 25
+
+2025-05-26 11:22:09,703 - INFO - GPS Data (Real-Time): 2025-05-26 04:52:09.703619
+Device: /dev/ttyACM0
+Latitude: 16.816637
+Longitude: 96.1927111
+Altitude (m): 18.193
+Speed (km/h): 0.36360000000000003
+Heading: 239.9352°
+
+2025-05-26 11:22:10,705 - INFO - GPS Data (Real-Time): 2025-05-26 04:52:10.705196
+Device: /dev/ttyACM0
+Satellites: 25
+
+2025-05-26 11:22:11,707 - INFO - GPS Data (Real-Time): 2025-05-26 04:52:11.706761
+Device: /dev/ttyACM1
+Latitude: 16.8165685
+Longitude: 96.1927162
+Altitude (m): 12.427
+Speed (km/h): 2.8332
+Heading: 35.1223°
+
+2025-05-26 11:22:12,708 - INFO - GPS Data (Real-Time): 2025-05-26 04:52:12.708430
+Device: /dev/ttyACM1
+Satellites: 25
+
+2025-05-26 11:22:13,709 - INFO - GPS Data (Real-Time): 2025-05-26 04:52:13.709329
+Device: /dev/ttyACM0
+Latitude: 16.8166371
+Longitude: 96.1927124
+Altitude (m): 18.586
+Speed (km/h): 0.1404
+Heading: 239.9352°
+
+2025-05-26 11:22:14,710 - INFO - GPS Data (Real-Time): 2025-05-26 04:52:14.710548
+Device: /dev/ttyACM0
+Satellites: 25
+
+2025-05-26 11:22:15,711 - INFO - GPS Data (Real-Time): 2025-05-26 04:52:15.711509
+Device: /dev/ttyACM1
+Latitude: 16.8165672
+Longitude: 96.192717
+Altitude (m): 11.655
+Speed (km/h): 2.8224
+Heading: 35.1223°
+
+2025-05-26 11:22:16,712 - INFO - GPS Data (Real-Time): 2025-05-26 04:52:16.712803
+Device: /dev/ttyACM1
+Satellites: 25
+
+2025-05-26 11:22:17,714 - INFO - GPS Data (Real-Time): 2025-05-26 04:52:17.713947
+Device: /dev/ttyACM0
+Latitude: 16.816637
+Longitude: 96.1927139
+Altitude (m): 19.008
+Speed (km/h): 0.3852
+Heading: 239.9352°
+
+2025-05-26 11:22:18,715 - INFO - GPS Data (Real-Time): 2025-05-26 04:52:18.715588
+Device: /dev/ttyACM0
+Satellites: 25
+
+2025-05-26 11:22:19,716 - INFO - GPS Data (Real-Time): 2025-05-26 04:52:19.716551
+Device: /dev/ttyACM1
+Latitude: 16.8165713
+Longitude: 96.1927143
+Altitude (m): 10.744
+Speed (km/h): 1.8828
+Heading: 35.1223°
+
+2025-05-26 11:22:20,690 - INFO - Stopping GPS
+2025-05-26 11:22:49,644 - INFO - Starting gps_dual.py
+2025-05-26 11:22:50,242 - INFO - Starting collect_nmea_data
+2025-05-26 11:22:50,243 - INFO - Starting gpsd attempt 1 with devices: ['/dev/ttyACM0', '/dev/ttyACM1']
+2025-05-26 11:23:08,313 - ERROR - gpsd exited prematurely: stdout=, stderr=gpsd:PROG: control socket opened at /var/run/gpsd.sock
+
+2025-05-26 11:23:08,314 - INFO - Starting gpsd attempt 2 with devices: ['/dev/ttyACM0', '/dev/ttyACM1']
+2025-05-26 11:23:10,432 - INFO - Stopping GPS data collection
+2025-05-26 11:24:30,675 - INFO - Starting simple_gps.py
+2025-05-26 11:24:30,681 - INFO - Connected to gpsd
+2025-05-26 11:24:30,683 - INFO - GPS Data (Real-Time): 2025-05-26 04:54:30.682729
+Device: Unknown
+
+2025-05-26 11:24:31,685 - INFO - GPS Data (Real-Time): 2025-05-26 04:54:31.684860
+Device: Unknown
+
+2025-05-26 11:24:32,686 - INFO - GPS Data (Real-Time): 2025-05-26 04:54:32.685890
+Device: Unknown
+
+2025-05-26 11:24:33,687 - INFO - GPS Data (Real-Time): 2025-05-26 04:54:33.686975
+Device: /dev/ttyACM1
+Latitude: 16.8166552
+Longitude: 96.1929412
+Altitude (m): 37.427
+Speed (km/h): 0.9216000000000001
+Heading: 35.1223°
+
+2025-05-26 11:24:34,688 - INFO - GPS Data (Real-Time): 2025-05-26 04:54:34.688280
+Device: /dev/ttyACM1
+Satellites: 25
+
+2025-05-26 11:24:35,690 - INFO - GPS Data (Real-Time): 2025-05-26 04:54:35.689688
+Device: /dev/ttyACM0
+Latitude: 16.8166309
+Longitude: 96.1927299
+Altitude (m): 15.346
+Speed (km/h): 0.1188
+Heading: 239.9352°
+
+2025-05-26 11:24:36,692 - INFO - GPS Data (Real-Time): 2025-05-26 04:54:36.691860
+Device: /dev/ttyACM0
+Satellites: 25
+
+2025-05-26 11:24:37,693 - INFO - GPS Data (Real-Time): 2025-05-26 04:54:37.692897
+Device: /dev/ttyACM1
+Latitude: 16.8166472
+Longitude: 96.1929406
+Altitude (m): 37.622
+Speed (km/h): 1.3824
+Heading: 35.1223°
+
+2025-05-26 11:24:38,694 - INFO - GPS Data (Real-Time): 2025-05-26 04:54:38.694236
+Device: /dev/ttyACM1
+Satellites: 25
+
+2025-05-26 11:24:39,695 - INFO - GPS Data (Real-Time): 2025-05-26 04:54:39.695232
+Device: /dev/ttyACM0
+Latitude: 16.8166296
+Longitude: 96.1927285
+Altitude (m): 15.117
+Speed (km/h): 0.3852
+Heading: 239.9352°
+
+2025-05-26 11:24:40,696 - INFO - GPS Data (Real-Time): 2025-05-26 04:54:40.696512
+Device: /dev/ttyACM0
+Satellites: 25
+
+2025-05-26 11:24:41,698 - INFO - GPS Data (Real-Time): 2025-05-26 04:54:41.697829
+Device: /dev/ttyACM1
+Latitude: 16.816642
+Longitude: 96.1929212
+Altitude (m): 37.952
+Speed (km/h): 2.0808
+Heading: 35.1223°
+
+2025-05-26 11:24:42,700 - INFO - GPS Data (Real-Time): 2025-05-26 04:54:42.700436
+Device: /dev/ttyACM1
+Satellites: 25
+
+2025-05-26 11:24:43,703 - INFO - GPS Data (Real-Time): 2025-05-26 04:54:43.702444
+Device: /dev/ttyACM0
+Latitude: 16.8166287
+Longitude: 96.1927272
+Altitude (m): 15.046
+Speed (km/h): 0.31679999999999997
+Heading: 239.9352°
+
+2025-05-26 11:24:44,705 - INFO - GPS Data (Real-Time): 2025-05-26 04:54:44.705104
+Device: /dev/ttyACM0
+Satellites: 25
+
+2025-05-26 11:24:45,707 - INFO - GPS Data (Real-Time): 2025-05-26 04:54:45.707171
+Device: /dev/ttyACM1
+Latitude: 16.8166419
+Longitude: 96.1929219
+Altitude (m): 38.174
+Speed (km/h): 1.4580000000000002
+Heading: 35.1223°
+
+2025-05-26 11:24:46,709 - INFO - GPS Data (Real-Time): 2025-05-26 04:54:46.709122
+Device: /dev/ttyACM1
+Satellites: 25
+
+2025-05-26 11:24:47,710 - INFO - GPS Data (Real-Time): 2025-05-26 04:54:47.710187
+Device: /dev/ttyACM0
+Latitude: 16.8166279
+Longitude: 96.1927271
+Altitude (m): 15.037
+Speed (km/h): 0.5364
+Heading: 239.9352°
+
+2025-05-26 11:24:48,711 - INFO - GPS Data (Real-Time): 2025-05-26 04:54:48.711375
+Device: /dev/ttyACM0
+Satellites: 25
+
+2025-05-26 11:24:49,557 - INFO - Stopping GPS
+2025-05-26 11:25:04,504 - INFO - Starting simple_gps.py
+2025-05-26 11:25:04,510 - INFO - Connected to gpsd
+2025-05-26 11:25:04,511 - INFO - GPS Data (Real-Time): 2025-05-26 04:55:04.511202
+Device: Unknown
+
+2025-05-26 11:25:05,512 - INFO - GPS Data (Real-Time): 2025-05-26 04:55:05.512624
+Device: Unknown
+
+2025-05-26 11:25:06,514 - INFO - GPS Data (Real-Time): 2025-05-26 04:55:06.513703
+Device: Unknown
+
+2025-05-26 11:25:07,516 - INFO - GPS Data (Real-Time): 2025-05-26 04:55:07.515635
+Device: /dev/ttyACM1
+Latitude: 16.8166731
+Longitude: 96.1929163
+Altitude (m): 40.212
+Speed (km/h): 0.6084
+Heading: 35.1223°
+
+2025-05-26 11:25:08,519 - INFO - GPS Data (Real-Time): 2025-05-26 04:55:08.518649
+Device: /dev/ttyACM1
+Satellites: 25
+
+2025-05-26 11:25:09,522 - INFO - GPS Data (Real-Time): 2025-05-26 04:55:09.520766
+Device: /dev/ttyACM0
+Latitude: 16.8166181
+Longitude: 96.1927173
+Altitude (m): 14.243
+Speed (km/h): 1.0728
+Heading: 239.9352°
+
+2025-05-26 11:25:10,524 - INFO - GPS Data (Real-Time): 2025-05-26 04:55:10.523984
+Device: /dev/ttyACM0
+Satellites: 25
+
+2025-05-26 11:25:11,525 - INFO - GPS Data (Real-Time): 2025-05-26 04:55:11.525005
+Device: /dev/ttyACM1
+Latitude: 16.8166759
+Longitude: 96.1929371
+Altitude (m): 40.984
+Speed (km/h): 1.278
+Heading: 35.1223°
+
+2025-05-26 11:25:12,526 - INFO - GPS Data (Real-Time): 2025-05-26 04:55:12.526361
+Device: /dev/ttyACM1
+Satellites: 25
+
+2025-05-26 11:25:13,094 - INFO - Stopping GPS

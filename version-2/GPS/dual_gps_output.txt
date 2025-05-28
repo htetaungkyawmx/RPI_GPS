@@ -1,0 +1,4930 @@
+GPS Data (Real-Time): 2025-05-22 06:46:04.656273
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:46:04.656273+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:46:05.657674
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:46:05.657674+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:46:06.658924
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:46:06.658924+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:46:07.660095
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:46:07.660095+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:46:08.661242
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:46:08.661242+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:46:09.662908
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:46:09.662908+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:46:10.665650
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:46:10.665650+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:46:11.667755
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:46:11.667755+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:46:12.669832
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:46:12.669832+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:46:13.672040
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:46:13.672040+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:46:14.674148
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:46:14.674148+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:46:15.678833
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:46:15.678833+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:46:16.680977
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:46:16.680977+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:46:17.683070
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:46:17.683070+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:46:18.685238
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:46:18.685238+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:46:19.687396
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:46:19.687396+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:46:20.689861
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:46:20.689861+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:46:21.692018
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:46:21.692018+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:46:22.694055
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:46:22.694055+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:46:23.696177
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:46:23.696177+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:46:24.698290
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:46:24.698290+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:46:25.700974
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:46:25.700974+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:46:26.702996
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:46:26.702996+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:02.821594
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:02.821594+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:03.823270
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:03.823270+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:04.824577
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:04.824577+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:05.825941
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:05.825941+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:06.827286
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:06.827286+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:07.828980
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:07.828980+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:08.832393
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:08.832393+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:09.834671
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:09.834671+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:10.837564
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:10.837564+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:11.840302
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:11.840302+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:12.842331
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:12.842331+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:13.844908
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:13.844908+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:14.846957
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:14.846957+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:15.849392
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:15.849392+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:16.851509
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:16.851509+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:17.853592
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:17.853592+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:18.858268
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:18.858268+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:19.861131
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:19.861131+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:20.863112
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:20.863112+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:21.865217
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:21.865217+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:22.867252
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:22.867252+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:23.869905
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:23.869905+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:24.871950
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:24.871950+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:25.873931
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:25.873931+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:26.876030
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:26.876030+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:27.878151
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:27.878151+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:28.880643
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:28.880643+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:29.883130
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:29.883130+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:30.885889
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:30.885889+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:31.888519
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:31.888519+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:32.890592
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:32.890592+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:33.893212
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:33.893212+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:34.896022
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:34.896022+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:35.898126
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:35.898126+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:36.900218
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:36.900218+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:37.902330
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:37.902330+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:38.906653
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:38.906653+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:39.908756
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:39.908756+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:40.910787
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:40.910787+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:41.912884
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:41.912884+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:42.914928
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:42.914928+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:43.919272
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:43.919272+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:44.921342
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:44.921342+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:45.924153
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:45.924153+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:46.926185
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:46.926185+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:47.928349
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:47.928349+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:48.932238
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:48.932238+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:49.934366
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:49.934366+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:50.937187
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:50.937187+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:51.939724
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:51.939724+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:52.942561
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:52.942561+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:53.947417
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:53.947417+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:54.949444
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:54.949444+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:55.951608
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:55.951608+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:56.953636
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:56.953636+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:57.956557
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:57.956557+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:58.959354
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:58.959354+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:48:59.961457
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:48:59.961457+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:49:00.963601
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:49:00.963601+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:49:01.965612
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:49:01.965612+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:49:02.967656
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:49:02.967656+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:49:03.970178
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:49:03.970178+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:49:04.972332
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:49:04.972332+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:49:05.974379
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:49:05.974379+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:49:06.976523
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:49:06.976523+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:49:07.978626
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:49:07.978626+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:49:08.984274
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:49:08.984274+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:49:09.986297
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:49:09.986297+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:49:10.988397
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:49:10.988397+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:49:11.990437
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:49:11.990437+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:49:12.992601
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:49:12.992601+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:49:13.997652
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:49:13.997652+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:49:15.000270
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:49:15.000270+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:49:16.003110
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:49:16.003110+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:49:17.005753
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:49:17.005753+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:49:18.008599
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:49:18.008599+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:50:08.423149
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:50:08.423149+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:50:09.425124
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:50:09.425124+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:50:10.428656
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:50:10.428656+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:50:11.430827
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:50:11.430827+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:50:13.386156
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:50:13.386156+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:50:14.388070
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:50:14.388070+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:50:15.389568
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:50:15.389568+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:50:16.390807
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:50:16.390807+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:50:17.392453
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:50:17.392453+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:50:18.395370
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:50:18.395370+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:55:27.163526
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:55:27.163526+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:55:28.164900
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:55:28.164900+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:55:29.166218
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:55:29.166218+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:55:30.167398
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:55:30.167398+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:55:31.168485
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:55:31.168485+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:55:32.169956
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:55:32.169956+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:55:33.172906
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:55:33.172906+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:55:34.175070
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:55:34.175070+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:55:35.177295
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:55:35.177295+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:55:36.179412
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:55:36.179412+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:55:37.181450
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:55:37.181450+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:55:38.184574
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:55:38.184574+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:55:39.186624
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:55:39.186624+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:55:40.188855
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:55:40.188855+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:55:41.190975
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:55:41.190975+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:55:42.193109
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:55:42.193109+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:55:43.196145
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:55:43.196145+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:55:44.198153
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:55:44.198153+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:55:45.200236
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:55:45.200236+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:55:46.202347
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:55:46.202347+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:55:47.204507
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:55:47.204507+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:55:48.212628
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:55:48.212628+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:55:49.214702
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:55:49.214702+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:55:50.216834
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:55:50.216834+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:55:51.218907
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:55:51.218907+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:55:52.221225
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:55:52.221225+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:55:53.226691
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:55:53.226691+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:55:54.228841
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:55:54.228841+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:55:55.230887
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:55:55.230887+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:55:56.233081
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:55:56.233081+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:55:57.235281
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:55:57.235281+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:55:58.241285
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:55:58.241285+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:55:59.243407
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:55:59.243407+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:56:00.245515
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:56:00.245515+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:56:01.247662
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:56:01.247662+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:56:02.249817
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:56:02.249817+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:56:03.254628
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:56:03.254628+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 06:56:04.256832
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T06:56:04.256832+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:00:38.375356
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:00:38.375356+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:00:39.376650
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:00:39.376650+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:00:40.378177
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:00:40.378177+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:00:41.379602
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:00:41.379602+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:00:42.380914
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:00:42.380914+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:00:43.382877
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:00:43.382877+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:00:44.385474
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:00:44.385474+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:00:45.388427
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:00:45.388427+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:00:46.390572
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:00:46.390572+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:00:47.393344
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:00:47.393344+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:00:48.396280
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:00:48.396280+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:00:49.399148
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:00:49.399148+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:00:50.401288
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:00:50.401288+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:00:51.404142
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:00:51.404142+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:00:52.406643
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:00:52.406643+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:00:53.409627
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:00:53.409627+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:02:40.634513
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:02:40.634513+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:06:06.153953
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:06:06.153953+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:06:07.156105
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:06:07.156105+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+  Fix Quality: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:13:18.793014
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:13:18.793014+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:13:19.794376
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:13:19.794376+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:13:20.796198
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:13:20.796198+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:13:21.797253
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:13:21.797253+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:13:22.798879
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:13:22.798879+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:13:23.800742
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:13:23.800742+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:13:24.803738
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:13:24.803738+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:13:25.805825
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:13:25.805825+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:13:26.808626
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:13:26.808626+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:13:27.811114
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:13:27.811114+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:13:28.813362
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:13:28.813362+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:13:29.815770
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:13:29.815770+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:13:30.818400
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:13:30.818400+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:13:31.820550
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:13:31.820550+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:13:32.822729
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:13:32.822729+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:13:33.824996
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:13:33.824996+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:13:34.828791
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:13:34.828791+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:13:35.831508
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:13:35.831508+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:31:47.915558
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:31:47.915558+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:31:48.916998
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:31:48.916998+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:31:49.918722
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:31:49.918722+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:31:50.920442
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:31:50.920442+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:31:51.922216
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:31:51.922216+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:31:52.923892
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:31:52.923892+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:31:53.926095
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:31:53.926095+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:31:54.929466
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:31:54.929466+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:33:01.376997
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:33:01.376997+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:33:02.378421
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:33:02.378421+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:33:03.380018
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:33:03.380018+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:33:04.381423
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:33:04.381423+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:33:05.382767
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:33:05.382767+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:33:06.384415
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:33:06.384415+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:45:25.956141
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:45:25.956141+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:45:26.958164
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:45:26.958164+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:45:27.960106
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:45:27.960106+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:45:28.961769
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:45:28.961769+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:45:29.963412
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:45:29.963412+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:45:30.965427
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:45:30.965427+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:45:44.383776
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:45:44.383776+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:45:45.385604
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:45:45.385604+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:49:26.124707
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:49:26.124707+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:49:27.126448
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:49:27.126448+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:49:28.127934
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:49:28.127934+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 07:49:29.129467
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T07:49:29.129467+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 08:51:44.739553
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T08:51:44.739553+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 08:51:45.744123
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T08:51:45.744123+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 08:51:46.745529
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T08:51:46.745529+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 08:52:14.439918
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T08:52:14.439918+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 08:52:15.441699
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T08:52:15.441699+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 08:52:16.443316
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T08:52:16.443316+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 08:52:35.687435
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T08:52:35.687435+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 08:52:36.689657
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T08:52:36.689657+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-22 08:52:37.691892
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-22T08:52:37.691892+00:00
+Top GPS (ttyACM0):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Bottom GPS (ttyACM1):
+  Raw GGA: None
+  Raw RMC: None
+  Latitude: Unknown
+  Longitude: Unknown
+  Altitude (m): Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°

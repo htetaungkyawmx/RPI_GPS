@@ -1,0 +1,189 @@
+GPS Data (Real-Time): 2025-05-23 09:37:26.006520
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-23T09:37:26.006520+00:00
+Bottom GPS (/dev/ttyACM1):
+  Latitude: Unknown
+  Longitude: Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-23 09:37:28.008532
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-23T09:37:28.008532+00:00
+Bottom GPS (/dev/ttyACM1):
+  Latitude: Unknown
+  Longitude: Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-23 09:37:30.010032
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-23T09:37:30.010032+00:00
+Bottom GPS (/dev/ttyACM1):
+  Latitude: Unknown
+  Longitude: Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-23 09:37:32.010990
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-23T09:37:32.010990+00:00
+Bottom GPS (/dev/ttyACM1):
+  Latitude: Unknown
+  Longitude: Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-23 09:37:34.012144
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-23T09:37:34.012144+00:00
+Bottom GPS (/dev/ttyACM1):
+  Latitude: Unknown
+  Longitude: Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-23 09:37:36.013585
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-23T09:37:36.013585+00:00
+Bottom GPS (/dev/ttyACM1):
+  Latitude: Unknown
+  Longitude: Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-23 09:37:38.015205
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-23T09:37:38.015205+00:00
+Bottom GPS (/dev/ttyACM1):
+  Latitude: Unknown
+  Longitude: Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-23 09:44:19.005018
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-23T09:44:19.005018+00:00
+Bottom GPS (/dev/ttyACM1):
+  Latitude: Unknown
+  Longitude: Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-23 09:44:21.007048
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-23T09:44:21.007048+00:00
+Bottom GPS (/dev/ttyACM1):
+  Latitude: Unknown
+  Longitude: Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-23 09:44:23.008808
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-23T09:44:23.008808+00:00
+Bottom GPS (/dev/ttyACM1):
+  Latitude: Unknown
+  Longitude: Unknown
+  Speed (km/h): Unknown
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-26 04:53:36.299773
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-26T04:53:36.299773+00:00
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8166228
+  Longitude: 96.1926889
+  Speed (km/h): 1.9980000000000002
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-26 04:53:38.303221
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-26T04:53:38.303221+00:00
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8166223
+  Longitude: 96.1926975
+  Speed (km/h): 1.818
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-26 04:53:40.306120
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-26T04:53:40.306120+00:00
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8166268
+  Longitude: 96.1927103
+  Speed (km/h): 1.9368
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-26 04:53:42.308597
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-26T04:53:42.308597+00:00
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8166266
+  Longitude: 96.1927145
+  Speed (km/h): 1.116
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-26 04:53:44.311040
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-26T04:53:44.311040+00:00
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8166231
+  Longitude: 96.1927163
+  Speed (km/h): 0.48960000000000004
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-26 04:53:46.313810
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-26T04:53:46.313810+00:00
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8166284
+  Longitude: 96.1927187
+  Speed (km/h): 0.6444
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-26 04:53:48.316623
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-26T04:53:48.316623+00:00
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816629
+  Longitude: 96.1927249
+  Speed (km/h): 0.4176
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-26 04:53:50.319439
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-26T04:53:50.319439+00:00
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8166317
+  Longitude: 96.1927369
+  Speed (km/h): 0.6552
+  Satellites: Unknown
+Heading: Unknown°
+
+GPS Data (Real-Time): 2025-05-26 04:53:52.321552
+Device ID: 10000000e5ab9cbe
+Timestamp: 2025-05-26T04:53:52.321552+00:00
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8166375
+  Longitude: 96.192751
+  Speed (km/h): 1.7388
+  Satellites: Unknown
+Heading: Unknown°
