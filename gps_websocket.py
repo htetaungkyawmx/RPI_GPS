@@ -9,6 +9,7 @@ import json
 import pytz
 from datetime import datetime
 from aiohttp import web
+from queue import Queue
 
 # Setup logging
 logging.basicConfig(
@@ -31,10 +32,12 @@ HTTP_PORT = 8080
 TIMEOUT = 10
 MAX_ATTEMPTS = 5
 RECONNECT_DELAY = 2
+DATA_TIMEOUT = 30  # seconds
 
-# Global variable to store latest GPS data
+# Global variables
 latest_gps_data = None
 connected_clients = set()
+gps_data_queue = Queue()
 
 def run_command(cmd):
     """Run a shell command and return success status, stdout, and stderr."""
@@ -81,24 +84,49 @@ async def parse_gps_data(gps_text):
         lines = gps_text.strip().split("\n")
         current_index = None
         for line in lines:
+            line = line.strip()
             if "GPS Data (Real-Time):" in line:
                 data["timestamp"] = line.split(":", 1)[1].strip()
             elif "Heading:" in line:
-                data["heading"] = float(line.split(":", 1)[1].strip()) if line.split(":", 1)[1].strip() != "Unknown" else None
+                heading_str = line.split(":", 1)[1].strip()
+                try:
+                    data["heading"] = float(heading_str) if heading_str != "Unknown" else None
+                except ValueError:
+                    data["heading"] = None
             elif "Top GPS (/dev/ttyACM0):" in line:
                 current_index = 0
             elif "Bottom GPS (/dev/ttyACM1):" in line:
                 current_index = 1
             elif "Latitude:" in line and current_index is not None:
-                data["gps_data"][current_index]["latitude"] = float(line.split(":", 1)[1].strip()) if line.split(":", 1)[1].strip() != "Unknown" else None
+                lat_str = line.split(":", 1)[1].strip()
+                try:
+                    data["gps_data"][current_index]["latitude"] = float(lat_str) if lat_str != "Unknown" else None
+                except ValueError:
+                    data["gps_data"][current_index]["latitude"] = None
             elif "Longitude:" in line and current_index is not None:
-                data["gps_data"][current_index]["longitude"] = float(line.split(":", 1)[1].strip()) if line.split(":", 1)[1].strip() != "Unknown" else None
+                lon_str = line.split(":", 1)[1].strip()
+                try:
+                    data["gps_data"][current_index]["longitude"] = float(lon_str) if lon_str != "Unknown" else None
+                except ValueError:
+                    data["gps_data"][current_index]["longitude"] = None
             elif "Altitude (m):" in line and current_index is not None:
-                data["gps_data"][current_index]["altitude"] = float(line.split(":", 1)[1].strip()) if line.split(":", 1)[1].strip() != "Unknown" else None
+                alt_str = line.split(":", 1)[1].strip()
+                try:
+                    data["gps_data"][current_index]["altitude"] = float(alt_str) if alt_str != "Unknown" else None
+                except ValueError:
+                    data["gps_data"][current_index]["altitude"] = None
             elif "Speed (km/h):" in line and current_index is not None:
-                data["gps_data"][current_index]["speed"] = float(line.split(":", 1)[1].strip()) if line.split(":", 1)[1].strip() != "Unknown" else None
+                speed_str = line.split(":", 1)[1].strip()
+                try:
+                    data["gps_data"][current_index]["speed"] = float(speed_str) if speed_str != "Unknown" else None
+                except ValueError:
+                    data["gps_data"][current_index]["speed"] = None
             elif "Satellites:" in line and current_index is not None:
-                data["gps_data"][current_index]["satellites"] = int(line.split(":", 1)[1].strip()) if line.split(":", 1)[1].strip() != "Unknown" else None
+                sat_str = line.split(":", 1)[1].strip()
+                try:
+                    data["gps_data"][current_index]["satellites"] = int(sat_str) if sat_str != "Unknown" else None
+                except ValueError:
+                    data["gps_data"][current_index]["satellites"] = None
         return data
     except Exception as e:
         logger.error(f"Error parsing GPS data: {e}")
@@ -153,8 +181,29 @@ async def start_http_server():
     await site.start()
     logger.info(f"HTTP server started on http://0.0.0.0:{HTTP_PORT}")
 
+async def broadcast_gps_data():
+    """Broadcast GPS data from the queue to connected WebSocket clients."""
+    while True:
+        try:
+            gps_text = gps_data_queue.get_nowait()
+            parsed_data = await parse_gps_data(gps_text)
+            if parsed_data:
+                global latest_gps_data
+                latest_gps_data = parsed_data
+                for client in connected_clients.copy():
+                    try:
+                        await client.send(json.dumps(parsed_data))
+                        logger.info(f"Broadcasted GPS data: {parsed_data}")
+                    except websockets.exceptions.ConnectionClosed:
+                        connected_clients.discard(client)
+            gps_data_queue.task_done()
+        except Queue.Empty:
+            await asyncio.sleep(0.1)  # Prevent tight loop
+        except Exception as e:
+            logger.error(f"Error broadcasting GPS data: {e}")
+
 def process_gps_data():
-    """Process GPS data and send to WebSocket clients."""
+    """Process GPS data and put it into the queue."""
     logger.info("Starting GPS data processing")
     for device in SERIAL_DEVICES:
         success, _, _ = run_command(['sudo', 'stty', '-F', device, '9600'])
@@ -180,50 +229,69 @@ def process_gps_data():
                 return
             time.sleep(RECONNECT_DELAY)
 
-    device_data = {device: {} for device in SERIAL_DEVICES}
-    os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
+    device_data = {device: {
+        'latitude': None,
+        'longitude': None,
+        'altitude': None,
+        'speed': None,
+        'satellites': None,
+        'timestamp': None,
+        'heading': None
+    } for device in SERIAL_DEVICES}
+    last_data_time = {device: time.time() for device in SERIAL_DEVICES}
+
     while True:
         try:
             report = client.next()
+            current_time = time.time()
+            for device in SERIAL_DEVICES:
+                if current_time - last_data_time[device] > DATA_TIMEOUT:
+                    logger.warning(f"No data received from {device} for {DATA_TIMEOUT} seconds")
+
             if report['class'] == 'TPV':
-                device = report.get('device', 'Unknown')
+                device = report.get('device', None)
                 if device not in SERIAL_DEVICES:
+                    logger.debug(f"Ignoring TPV report for unknown device: {device}")
                     continue
-                timestamp = datetime.now(pytz.UTC)
-                lat = report.get('lat', 'Unknown')
-                lon = report.get('lon', 'Unknown')
-                alt = report.get('alt', 'Unknown')
-                speed = report.get('speed', 'Unknown')
-                heading = report.get('track', 'Unknown')
+                last_data_time[device] = current_time
+                timestamp = datetime.now(pytz.UTC).strftime('%Y-%m-%d %H:%M:%S.%f')
+                lat = report.get('lat', None)
+                lon = report.get('lon', None)
+                alt = report.get('alt', None)
+                speed = report.get('speed', None)
+                heading = report.get('track', None)
                 if isinstance(speed, (int, float)):
                     speed = round(speed * 3.6, 2)  # Convert m/s to km/h
                 if isinstance(heading, (int, float)):
                     heading = round(heading, 1)  # Round to 1 decimal place
-                satellites = device_data.get(device, {}).get('satellites', 'Unknown')
-                device_data[device] = {
-                    'timestamp': timestamp.strftime('%Y-%m-%d %H:%M:%S.%f'),
+
+                device_data[device].update({
+                    'timestamp': timestamp,
                     'latitude': lat,
                     'longitude': lon,
                     'altitude': alt,
                     'speed': speed,
-                    'satellites': satellites
-                }
+                    'heading': heading
+                })
+
+                # Use the heading from the most recent device update
+                current_heading = device_data[device].get('heading', None)
 
                 output = [
-                    f"GPS Data (Real-Time): {timestamp.strftime('%Y-%m-%d %H:%M:%S.%f')}",
+                    f"GPS Data (Real-Time): {timestamp}",
                     f"Device ID: 10000000e123456be",
-                    f"Heading: {heading}"
+                    f"Heading: {current_heading if current_heading is not None else 'Unknown'}"
                 ]
                 for device in SERIAL_DEVICES:
                     label = "Top GPS" if device == '/dev/ttyACM0' else "Bottom GPS"
                     data = device_data.get(device, {})
                     output.extend([
                         f"{label} ({device}):",
-                        f"  Latitude: {data.get('latitude', 'Unknown')}",
-                        f"  Longitude: {data.get('longitude', 'Unknown')}",
-                        f"  Altitude (m): {data.get('altitude', 'Unknown')}",
-                        f"  Speed (km/h): {data.get('speed', 'Unknown')}",
-                        f"  Satellites: {data.get('satellites', 'Unknown')}"
+                        f"  Latitude: {data.get('latitude', 'Unknown') if data.get('latitude') is not None else 'Unknown'}",
+                        f"  Longitude: {data.get('longitude', 'Unknown') if data.get('longitude') is not None else 'Unknown'}",
+                        f"  Altitude (m): {data.get('altitude', 'Unknown') if data.get('altitude') is not None else 'Unknown'}",
+                        f"  Speed (km/h): {data.get('speed', 'Unknown') if data.get('speed') is not None else 'Unknown'}",
+                        f"  Satellites: {data.get('satellites', 'Unknown') if data.get('satellites') is not None else 'Unknown'}"
                     ])
                 output_str = "\n".join(output) + "\n---------------------------\n"
                 print(output_str)
@@ -234,31 +302,36 @@ def process_gps_data():
                 except Exception as e:
                     logger.error(f"Failed to write to output file: {e}")
 
-                # Update latest GPS data and broadcast
-                global latest_gps_data
-                parsed_data = parse_gps_data(output_str)
-                if parsed_data:
-                    latest_gps_data = parsed_data
-                    for client in connected_clients.copy():
-                        try:
-                            asyncio.run_coroutine_threadsafe(
-                                client.send(json.dumps(parsed_data)),
-                                asyncio.get_event_loop()
-                            )
-                        except websockets.exceptions.ConnectionClosed:
-                            connected_clients.discard(client)
+                gps_data_queue.put(output_str)
 
             elif report['class'] == 'SKY':
-                satellites = len([sat for sat in report.get('satellites', []) if sat.get('used', False)])
-                for device in SERIAL_DEVICES:
-                    if device in device_data:
-                        device_data[device]['satellites'] = satellites
+                device = report.get('device', None)
+                if device not in SERIAL_DEVICES:
+                    logger.debug(f"Ignoring SKY report for unknown device: {device}")
+                    continue
+                last_data_time[device] = current_time
+                try:
+                    satellites = len([sat for sat in report.get('satellites', []) if sat.get('used', False)])
+                    device_data[device]['satellites'] = satellites
+                    logger.debug(f"Updated satellites for {device}: {satellites}")
+                except Exception as e:
+                    logger.error(f"Error processing SKY report for {device}: {e}")
         except Exception as e:
             logger.error(f"Error processing report: {e}")
             time.sleep(RECONNECT_DELAY)
             try:
                 client = gps.gps(host=GPSD_HOST, port=GPSD_PORT, mode=gps.WATCH_ENABLE | gps.WATCH_NEWSTYLE)
                 logger.info("Reconnected to gpsd")
+                # Reset device_data to avoid stale data
+                device_data.update({device: {
+                    'latitude': None,
+                    'longitude': None,
+                    'altitude': None,
+                    'speed': None,
+                    'satellites': None,
+                    'timestamp': None,
+                    'heading': None
+                } for device in SERIAL_DEVICES})
             except Exception as reconnect_e:
                 logger.error(f"Failed to reconnect to gpsd: {reconnect_e}")
                 time.sleep(RECONNECT_DELAY)
@@ -271,6 +344,7 @@ async def main():
     try:
         await asyncio.gather(
             loop.run_in_executor(None, process_gps_data),
+            broadcast_gps_data(),
             server.wait_closed()
         )
     except KeyboardInterrupt:
