@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ship Locations</title>
+  <script src="https://cdn.jsdelivr.net/npm/react@18.2.0/umd/react.production.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/react-dom@18.2.0/umd/react-dom.production.min.js"></script>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 font-sans">
+  <div id="root" class="container mx-auto p-4"></div>
+
+  <script type="text/babel">
+    const { useState, useEffect } = React;
+
+    const ShipTable = () => {
+      const [status, setStatus] = useState('Connecting to WebSocket...');
+      const [ships, setShips] = useState([]);
+      const [latestShipsData, setLatestShipsData] = useState(null);
+
+      useEffect(() => {
+        const ws = new WebSocket('ws://localhost:4001');
+
+        ws.onopen = () => {
+          setStatus('Connected to WebSocket server');
+          console.log('WebSocket connected');
+        };
+
+        ws.onmessage = (event) => {
+          try {
+            const data = JSON.parse(event.data);
+            console.log('Received:', data);
+            if (data.type === 'shipsUpdate') {
+              setLatestShipsData(data);
+              console.log('Updated latestShipsData:', data);
+            }
+          } catch (error) {
+            console.error('Error parsing message:', error);
+            setStatus('Error parsing WebSocket data');
+          }
+        };
+
+        ws.onclose = () => {
+          setStatus('Disconnected from WebSocket server');
+          console.log('WebSocket disconnected');
+        };
+
+        ws.onerror = (error) => {
+          console.error('WebSocket error:', error);
+          setStatus('WebSocket error occurred');
+        };
+
+        return () => {
+          ws.close();
+          console.log('WebSocket cleanup');
+        };
+      }, []);
+
+      useEffect(() => {
+        const interval = setInterval(() => {
+          if (latestShipsData && latestShipsData.ships) {
+            // Flatten gps_data for table display
+            const flattenedShips = latestShipsData.ships.flatMap(ship =>
+              ship.gps_data.map(gpsEntry => ({
+                ship_id: ship.ship_id,
+                gps: gpsEntry.gps,
+                latitude: gpsEntry.latitude,
+                longitude: gpsEntry.longitude,
+                altitude: gpsEntry.altitude,
+                speed: gpsEntry.speed,
+                satellites: gpsEntry.satellites,
+                timestamp: ship.timestamp,
+                heading: ship.heading,
+                device_id: ship.device_id
+              }))
+            );
+            console.log('Updating ships:', flattenedShips);
+            setShips(flattenedShips);
+          } else {
+            console.log('No ships data to update');
+          }
+        }, 5000);
+
+        return () => clearInterval(interval);
+      }, [latestShipsData]);
+
+      return (
+        <div>
+          <div className="mb-4 text-lg font-semibold text-gray-700">{status}</div>
+          <div className="overflow-x-auto bg-white shadow-md rounded-lg">
+            <table className="min-w-full divide-y divide-gray-200">
+              <thead className="bg-gray-50">
+                <tr>
+                  {['Ship ID', 'GPS', 'Latitude', 'Longitude', 'Altitude', 'Speed', 'Heading', 'Satellites', 'Timestamp', 'Device ID'].map((header) => (
+                    <th key={header} className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                      {header}
+                    </th>
+                  ))}
+                </tr>
+              </thead>
+              <tbody className="bg-white divide-y divide-gray-200">
+                {ships.length === 0 ? (
+                  <tr>
+                    <td colSpan="10" className="px-6 py-4 text-center text-gray-500">No data available</td>
+                  </tr>
+                ) : (
+                  ships.map((ship, index) => (
+                    <tr key={`${ship.ship_id}_${ship.gps}_${index}`} className="hover:bg-gray-50">
+                      <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">{ship.ship_id}</td>
+                      <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">{ship.gps}</td>
+                      <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">{ship.latitude.toFixed(6)}</td>
+                      <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">{ship.longitude.toFixed(6)}</td>
+                      <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">{ship.altitude !== null ? ship.altitude.toFixed(2) : 'N/A'}</td>
+                      <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">{ship.speed !== null ? ship.speed.toFixed(2) : 'N/A'}</td>
+                      <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">{ship.heading !== null ? ship.heading.toFixed(1) : 'N/A'}</td>
+                      <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">{ship.satellites || 'N/A'}</td>
+                      <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">{ship.timestamp}</td>
+                      <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">{ship.device_id || 'N/A'}</td>
+                    </tr>
+                  ))
+                )}
+              </tbody>
+            </table>
+          </div>
+        </div>
+      );
+    };
+
+    ReactDOM.render(<ShipTable />, document.getElementById('root'));
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/@babel/standalone/babel.min.js"></script>
+</body>
+</html>
