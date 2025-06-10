@@ -1,0 +1,5894 @@
+
+=== Application Started at: 2025-06-10 14:40:13 ===
+GPS Data (Real-Time): 2025-06-10 08:10:17.138684
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167122
+  Longitude: 96.1927737
+  Altitude (m): 17.686
+  Speed (km/h): 0.63
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 25, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8166955
+  Longitude: 96.192757833
+  Altitude (m): 5.8
+  Speed (km/h): 0.21
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:17.140847
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167122
+  Longitude: 96.1927737
+  Altitude (m): 17.686
+  Speed (km/h): 0.63
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8166955
+  Longitude: 96.192757833
+  Altitude (m): 5.8
+  Speed (km/h): 0.21
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:18.141164
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167117
+  Longitude: 96.1927739
+  Altitude (m): 17.537
+  Speed (km/h): 0.51
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8166955
+  Longitude: 96.192757833
+  Altitude (m): 5.8
+  Speed (km/h): 0.21
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:18.147712
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167117
+  Longitude: 96.1927739
+  Altitude (m): 17.537
+  Speed (km/h): 0.51
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8166955
+  Longitude: 96.192757833
+  Altitude (m): 5.8
+  Speed (km/h): 0.21
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:18.152304
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167117
+  Longitude: 96.1927739
+  Altitude (m): 17.537
+  Speed (km/h): 0.51
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8166955
+  Longitude: 96.192757833
+  Altitude (m): 5.8
+  Speed (km/h): 0.21
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:18.155900
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167117
+  Longitude: 96.1927739
+  Altitude (m): 17.537
+  Speed (km/h): 0.51
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816695833
+  Longitude: 96.1927575
+  Altitude (m): 5.9
+  Speed (km/h): 0.16
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:19.134391
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167098
+  Longitude: 96.1927757
+  Altitude (m): 17.751
+  Speed (km/h): 0.85
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816695833
+  Longitude: 96.1927575
+  Altitude (m): 5.9
+  Speed (km/h): 0.16
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:19.138597
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167098
+  Longitude: 96.1927757
+  Altitude (m): 17.751
+  Speed (km/h): 0.85
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816695833
+  Longitude: 96.1927575
+  Altitude (m): 5.9
+  Speed (km/h): 0.16
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:19.143738
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167098
+  Longitude: 96.1927757
+  Altitude (m): 17.751
+  Speed (km/h): 0.85
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816695833
+  Longitude: 96.1927575
+  Altitude (m): 5.9
+  Speed (km/h): 0.16
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:19.146551
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167098
+  Longitude: 96.1927757
+  Altitude (m): 17.751
+  Speed (km/h): 0.85
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816695667
+  Longitude: 96.192759333
+  Altitude (m): 6.2
+  Speed (km/h): 0.73
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:20.138099
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167103
+  Longitude: 96.1927761
+  Altitude (m): 17.934
+  Speed (km/h): 0.33
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816695667
+  Longitude: 96.192759333
+  Altitude (m): 6.2
+  Speed (km/h): 0.73
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:20.141872
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167103
+  Longitude: 96.1927761
+  Altitude (m): 17.934
+  Speed (km/h): 0.33
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816695667
+  Longitude: 96.192759333
+  Altitude (m): 6.2
+  Speed (km/h): 0.73
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:20.145762
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167103
+  Longitude: 96.1927761
+  Altitude (m): 17.934
+  Speed (km/h): 0.33
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816695667
+  Longitude: 96.192759333
+  Altitude (m): 6.2
+  Speed (km/h): 0.73
+  Satellites: 16
+  Satellite PRNs: 5, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:20.148476
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167103
+  Longitude: 96.1927761
+  Altitude (m): 17.934
+  Speed (km/h): 0.33
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8166955
+  Longitude: 96.192759833
+  Altitude (m): 6.2
+  Speed (km/h): 0.44
+  Satellites: 16
+  Satellite PRNs: 5, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:21.138109
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167126
+  Longitude: 96.1927762
+  Altitude (m): 18.301
+  Speed (km/h): 0.98
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8166955
+  Longitude: 96.192759833
+  Altitude (m): 6.2
+  Speed (km/h): 0.44
+  Satellites: 16
+  Satellite PRNs: 5, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:21.141753
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167126
+  Longitude: 96.1927762
+  Altitude (m): 18.301
+  Speed (km/h): 0.98
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8166955
+  Longitude: 96.192759833
+  Altitude (m): 6.2
+  Speed (km/h): 0.44
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:21.144991
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167126
+  Longitude: 96.1927762
+  Altitude (m): 18.301
+  Speed (km/h): 0.98
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816695
+  Longitude: 96.192758833
+  Altitude (m): 6.0
+  Speed (km/h): 0.15
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:21.147968
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167126
+  Longitude: 96.1927762
+  Altitude (m): 18.301
+  Speed (km/h): 0.98
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816695
+  Longitude: 96.192758833
+  Altitude (m): 6.0
+  Speed (km/h): 0.15
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:22.139700
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167126
+  Longitude: 96.1927762
+  Altitude (m): 18.301
+  Speed (km/h): 0.98
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816695
+  Longitude: 96.192758833
+  Altitude (m): 6.0
+  Speed (km/h): 0.15
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:22.143449
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167126
+  Longitude: 96.1927762
+  Altitude (m): 18.301
+  Speed (km/h): 0.98
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816693167
+  Longitude: 96.1927585
+  Altitude (m): 5.7
+  Speed (km/h): 0.49
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:22.145981
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167124
+  Longitude: 96.1927758
+  Altitude (m): 18.298
+  Speed (km/h): 0.23
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816693167
+  Longitude: 96.1927585
+  Altitude (m): 5.7
+  Speed (km/h): 0.49
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:22.148935
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167124
+  Longitude: 96.1927758
+  Altitude (m): 18.298
+  Speed (km/h): 0.23
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 25, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816693167
+  Longitude: 96.1927585
+  Altitude (m): 5.7
+  Speed (km/h): 0.49
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:23.137592
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167127
+  Longitude: 96.1927754
+  Altitude (m): 18.321
+  Speed (km/h): 0.03
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 25, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816693167
+  Longitude: 96.1927585
+  Altitude (m): 5.7
+  Speed (km/h): 0.49
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:23.141082
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167127
+  Longitude: 96.1927754
+  Altitude (m): 18.321
+  Speed (km/h): 0.03
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 25, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816693167
+  Longitude: 96.1927585
+  Altitude (m): 5.7
+  Speed (km/h): 0.49
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:23.145462
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167127
+  Longitude: 96.1927754
+  Altitude (m): 18.321
+  Speed (km/h): 0.03
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 25, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816692167
+  Longitude: 96.192757667
+  Altitude (m): 5.5
+  Speed (km/h): 0.3
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:23.149156
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167127
+  Longitude: 96.1927754
+  Altitude (m): 18.321
+  Speed (km/h): 0.03
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816692167
+  Longitude: 96.192757667
+  Altitude (m): 5.5
+  Speed (km/h): 0.3
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:24.134678
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167127
+  Longitude: 96.1927754
+  Altitude (m): 18.321
+  Speed (km/h): 0.03
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816692167
+  Longitude: 96.192757667
+  Altitude (m): 5.5
+  Speed (km/h): 0.3
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:24.138065
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167127
+  Longitude: 96.1927754
+  Altitude (m): 18.321
+  Speed (km/h): 0.03
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816692167
+  Longitude: 96.192757
+  Altitude (m): 5.5
+  Speed (km/h): 0.12
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:24.142344
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167132
+  Longitude: 96.1927753
+  Altitude (m): 18.434
+  Speed (km/h): 0.12
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816692167
+  Longitude: 96.192757
+  Altitude (m): 5.5
+  Speed (km/h): 0.12
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:24.145687
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167132
+  Longitude: 96.1927753
+  Altitude (m): 18.434
+  Speed (km/h): 0.12
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816692167
+  Longitude: 96.192757
+  Altitude (m): 5.5
+  Speed (km/h): 0.12
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:25.138025
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167147
+  Longitude: 96.1927733
+  Altitude (m): 18.293
+  Speed (km/h): 0.4
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816692167
+  Longitude: 96.192757
+  Altitude (m): 5.5
+  Speed (km/h): 0.12
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:25.141500
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167147
+  Longitude: 96.1927733
+  Altitude (m): 18.293
+  Speed (km/h): 0.4
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816692167
+  Longitude: 96.192757
+  Altitude (m): 5.5
+  Speed (km/h): 0.12
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:25.148574
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167147
+  Longitude: 96.1927733
+  Altitude (m): 18.293
+  Speed (km/h): 0.4
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8166915
+  Longitude: 96.1927565
+  Altitude (m): 5.4
+  Speed (km/h): 0.31
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:25.151426
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167147
+  Longitude: 96.1927733
+  Altitude (m): 18.293
+  Speed (km/h): 0.4
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8166915
+  Longitude: 96.1927565
+  Altitude (m): 5.4
+  Speed (km/h): 0.31
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:26.140527
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167147
+  Longitude: 96.1927733
+  Altitude (m): 18.293
+  Speed (km/h): 0.4
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8166915
+  Longitude: 96.1927565
+  Altitude (m): 5.4
+  Speed (km/h): 0.31
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:26.144942
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167147
+  Longitude: 96.1927733
+  Altitude (m): 18.293
+  Speed (km/h): 0.4
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8166915
+  Longitude: 96.192755
+  Altitude (m): 5.1
+  Speed (km/h): 0.46
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:26.148250
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167154
+  Longitude: 96.1927731
+  Altitude (m): 18.34
+  Speed (km/h): 0.12
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8166915
+  Longitude: 96.192755
+  Altitude (m): 5.1
+  Speed (km/h): 0.46
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:26.152750
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167154
+  Longitude: 96.1927731
+  Altitude (m): 18.34
+  Speed (km/h): 0.12
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8166915
+  Longitude: 96.192755
+  Altitude (m): 5.1
+  Speed (km/h): 0.46
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:27.134361
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167158
+  Longitude: 96.1927719
+  Altitude (m): 18.21
+  Speed (km/h): 0.05
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8166915
+  Longitude: 96.192755
+  Altitude (m): 5.1
+  Speed (km/h): 0.46
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:27.138005
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167158
+  Longitude: 96.1927719
+  Altitude (m): 18.21
+  Speed (km/h): 0.05
+  Satellites: 14
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8166915
+  Longitude: 96.192755
+  Altitude (m): 5.1
+  Speed (km/h): 0.46
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:27.141606
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167158
+  Longitude: 96.1927719
+  Altitude (m): 18.21
+  Speed (km/h): 0.05
+  Satellites: 14
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8166915
+  Longitude: 96.192755
+  Altitude (m): 5.1
+  Speed (km/h): 0.46
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:27.144401
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167158
+  Longitude: 96.1927719
+  Altitude (m): 18.21
+  Speed (km/h): 0.05
+  Satellites: 14
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8166905
+  Longitude: 96.192754333
+  Altitude (m): 4.8
+  Speed (km/h): 0.28
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:28.137755
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167165
+  Longitude: 96.1927751
+  Altitude (m): 18.993
+  Speed (km/h): 0.21
+  Satellites: 14
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8166905
+  Longitude: 96.192754333
+  Altitude (m): 4.8
+  Speed (km/h): 0.28
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:28.142322
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167165
+  Longitude: 96.1927751
+  Altitude (m): 18.993
+  Speed (km/h): 0.21
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 195, 196, 66, 67, 81
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8166905
+  Longitude: 96.192754333
+  Altitude (m): 4.8
+  Speed (km/h): 0.28
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:28.147074
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167165
+  Longitude: 96.1927751
+  Altitude (m): 18.993
+  Speed (km/h): 0.21
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 195, 196, 66, 67, 81
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8166905
+  Longitude: 96.192754333
+  Altitude (m): 4.8
+  Speed (km/h): 0.28
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:28.150004
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167165
+  Longitude: 96.1927751
+  Altitude (m): 18.993
+  Speed (km/h): 0.21
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 195, 196, 66, 67, 81
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816689
+  Longitude: 96.192753667
+  Altitude (m): 4.5
+  Speed (km/h): 0.73
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:29.127915
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167175
+  Longitude: 96.1927731
+  Altitude (m): 18.782
+  Speed (km/h): 0.06
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 195, 196, 66, 67, 81
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816689
+  Longitude: 96.192753667
+  Altitude (m): 4.5
+  Speed (km/h): 0.73
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:29.131569
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167175
+  Longitude: 96.1927731
+  Altitude (m): 18.782
+  Speed (km/h): 0.06
+  Satellites: 14
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816689
+  Longitude: 96.192753667
+  Altitude (m): 4.5
+  Speed (km/h): 0.73
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:29.143581
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167175
+  Longitude: 96.1927731
+  Altitude (m): 18.782
+  Speed (km/h): 0.06
+  Satellites: 14
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816689
+  Longitude: 96.192753667
+  Altitude (m): 4.5
+  Speed (km/h): 0.73
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:29.146483
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167175
+  Longitude: 96.1927731
+  Altitude (m): 18.782
+  Speed (km/h): 0.06
+  Satellites: 14
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816688333
+  Longitude: 96.192754333
+  Altitude (m): 4.5
+  Speed (km/h): 0.44
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:30.138452
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167181
+  Longitude: 96.1927742
+  Altitude (m): 19.129
+  Speed (km/h): 0.09
+  Satellites: 14
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816688333
+  Longitude: 96.192754333
+  Altitude (m): 4.5
+  Speed (km/h): 0.44
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:30.141930
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167181
+  Longitude: 96.1927742
+  Altitude (m): 19.129
+  Speed (km/h): 0.09
+  Satellites: 14
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816688333
+  Longitude: 96.192754333
+  Altitude (m): 4.5
+  Speed (km/h): 0.44
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:30.147666
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167181
+  Longitude: 96.1927742
+  Altitude (m): 19.129
+  Speed (km/h): 0.09
+  Satellites: 14
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816688333
+  Longitude: 96.192754333
+  Altitude (m): 4.5
+  Speed (km/h): 0.44
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:30.150998
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167181
+  Longitude: 96.1927742
+  Altitude (m): 19.129
+  Speed (km/h): 0.09
+  Satellites: 14
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816686667
+  Longitude: 96.192755667
+  Altitude (m): 4.3
+  Speed (km/h): 0.76
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:31.131993
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167191
+  Longitude: 96.1927751
+  Altitude (m): 19.36
+  Speed (km/h): 0.13
+  Satellites: 14
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816686667
+  Longitude: 96.192755667
+  Altitude (m): 4.3
+  Speed (km/h): 0.76
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:31.135666
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167191
+  Longitude: 96.1927751
+  Altitude (m): 19.36
+  Speed (km/h): 0.13
+  Satellites: 14
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816686667
+  Longitude: 96.192755667
+  Altitude (m): 4.3
+  Speed (km/h): 0.76
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:31.139617
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167191
+  Longitude: 96.1927751
+  Altitude (m): 19.36
+  Speed (km/h): 0.13
+  Satellites: 14
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816686667
+  Longitude: 96.192755667
+  Altitude (m): 4.3
+  Speed (km/h): 0.76
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:31.142566
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167191
+  Longitude: 96.1927751
+  Altitude (m): 19.36
+  Speed (km/h): 0.13
+  Satellites: 14
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816686667
+  Longitude: 96.1927565
+  Altitude (m): 4.4
+  Speed (km/h): 0.22
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:32.130189
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167206
+  Longitude: 96.1927741
+  Altitude (m): 19.24
+  Speed (km/h): 0.12
+  Satellites: 14
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816686667
+  Longitude: 96.1927565
+  Altitude (m): 4.4
+  Speed (km/h): 0.22
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:32.134031
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167206
+  Longitude: 96.1927741
+  Altitude (m): 19.24
+  Speed (km/h): 0.12
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816686667
+  Longitude: 96.1927565
+  Altitude (m): 4.4
+  Speed (km/h): 0.22
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:32.137883
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167206
+  Longitude: 96.1927741
+  Altitude (m): 19.24
+  Speed (km/h): 0.12
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816686667
+  Longitude: 96.1927565
+  Altitude (m): 4.4
+  Speed (km/h): 0.22
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:32.142142
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167206
+  Longitude: 96.1927741
+  Altitude (m): 19.24
+  Speed (km/h): 0.12
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816685167
+  Longitude: 96.192756
+  Altitude (m): 4.1
+  Speed (km/h): 0.57
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:33.126877
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167206
+  Longitude: 96.1927741
+  Altitude (m): 19.24
+  Speed (km/h): 0.12
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816685167
+  Longitude: 96.192756
+  Altitude (m): 4.1
+  Speed (km/h): 0.57
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:33.131727
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167206
+  Longitude: 96.1927741
+  Altitude (m): 19.24
+  Speed (km/h): 0.12
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816685667
+  Longitude: 96.192755833
+  Altitude (m): 4.3
+  Speed (km/h): 0.25
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:33.138782
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167219
+  Longitude: 96.1927726
+  Altitude (m): 19.126
+  Speed (km/h): 0.1
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816685667
+  Longitude: 96.192755833
+  Altitude (m): 4.3
+  Speed (km/h): 0.25
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:33.143370
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167219
+  Longitude: 96.1927726
+  Altitude (m): 19.126
+  Speed (km/h): 0.1
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816685667
+  Longitude: 96.192755833
+  Altitude (m): 4.3
+  Speed (km/h): 0.25
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:34.133433
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167219
+  Longitude: 96.1927726
+  Altitude (m): 19.126
+  Speed (km/h): 0.1
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816685667
+  Longitude: 96.192755833
+  Altitude (m): 4.3
+  Speed (km/h): 0.25
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:34.136518
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167219
+  Longitude: 96.1927726
+  Altitude (m): 19.126
+  Speed (km/h): 0.1
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816688167
+  Longitude: 96.192753
+  Altitude (m): 4.2
+  Speed (km/h): 0.99
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:34.138991
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167229
+  Longitude: 96.1927695
+  Altitude (m): 18.745
+  Speed (km/h): 0.21
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816688167
+  Longitude: 96.192753
+  Altitude (m): 4.2
+  Speed (km/h): 0.99
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:34.141894
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167229
+  Longitude: 96.1927695
+  Altitude (m): 18.745
+  Speed (km/h): 0.21
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816688167
+  Longitude: 96.192753
+  Altitude (m): 4.2
+  Speed (km/h): 0.99
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:35.132076
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167229
+  Longitude: 96.1927695
+  Altitude (m): 18.745
+  Speed (km/h): 0.21
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816688167
+  Longitude: 96.192753
+  Altitude (m): 4.2
+  Speed (km/h): 0.99
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:35.136888
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167229
+  Longitude: 96.1927695
+  Altitude (m): 18.745
+  Speed (km/h): 0.21
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816688667
+  Longitude: 96.1927515
+  Altitude (m): 4.0
+  Speed (km/h): 0.15
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:35.140964
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167236
+  Longitude: 96.1927645
+  Altitude (m): 18.0
+  Speed (km/h): 0.67
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816688667
+  Longitude: 96.1927515
+  Altitude (m): 4.0
+  Speed (km/h): 0.15
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:35.144359
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167236
+  Longitude: 96.1927645
+  Altitude (m): 18.0
+  Speed (km/h): 0.67
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816688667
+  Longitude: 96.1927515
+  Altitude (m): 4.0
+  Speed (km/h): 0.15
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:36.133108
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167236
+  Longitude: 96.1927645
+  Altitude (m): 18.0
+  Speed (km/h): 0.67
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816688667
+  Longitude: 96.1927515
+  Altitude (m): 4.0
+  Speed (km/h): 0.15
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:36.136852
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167236
+  Longitude: 96.1927645
+  Altitude (m): 18.0
+  Speed (km/h): 0.67
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816688333
+  Longitude: 96.1927495
+  Altitude (m): 3.5
+  Speed (km/h): 0.33
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:36.147046
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167233
+  Longitude: 96.1927614
+  Altitude (m): 17.45
+  Speed (km/h): 0.36
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816688333
+  Longitude: 96.1927495
+  Altitude (m): 3.5
+  Speed (km/h): 0.33
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:36.149754
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167233
+  Longitude: 96.1927614
+  Altitude (m): 17.45
+  Speed (km/h): 0.36
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816688333
+  Longitude: 96.1927495
+  Altitude (m): 3.5
+  Speed (km/h): 0.33
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:37.126789
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816723
+  Longitude: 96.1927572
+  Altitude (m): 16.845
+  Speed (km/h): 0.72
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816688333
+  Longitude: 96.1927495
+  Altitude (m): 3.5
+  Speed (km/h): 0.33
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:37.130818
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816723
+  Longitude: 96.1927572
+  Altitude (m): 16.845
+  Speed (km/h): 0.72
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816688333
+  Longitude: 96.1927495
+  Altitude (m): 3.5
+  Speed (km/h): 0.33
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:37.134353
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816723
+  Longitude: 96.1927572
+  Altitude (m): 16.845
+  Speed (km/h): 0.72
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816688333
+  Longitude: 96.1927495
+  Altitude (m): 3.5
+  Speed (km/h): 0.33
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:37.142082
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816723
+  Longitude: 96.1927572
+  Altitude (m): 16.845
+  Speed (km/h): 0.72
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816687833
+  Longitude: 96.192749167
+  Altitude (m): 3.6
+  Speed (km/h): 0.59
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:38.134767
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816723
+  Longitude: 96.1927572
+  Altitude (m): 16.845
+  Speed (km/h): 0.72
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816687833
+  Longitude: 96.192749167
+  Altitude (m): 3.6
+  Speed (km/h): 0.59
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:38.142387
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816723
+  Longitude: 96.1927572
+  Altitude (m): 16.845
+  Speed (km/h): 0.72
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8166875
+  Longitude: 96.192749167
+  Altitude (m): 3.8
+  Speed (km/h): 0.33
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:38.147103
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167264
+  Longitude: 96.19275
+  Altitude (m): 16.228
+  Speed (km/h): 2.26
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8166875
+  Longitude: 96.192749167
+  Altitude (m): 3.8
+  Speed (km/h): 0.33
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:38.151999
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167264
+  Longitude: 96.19275
+  Altitude (m): 16.228
+  Speed (km/h): 2.26
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8166875
+  Longitude: 96.192749167
+  Altitude (m): 3.8
+  Speed (km/h): 0.33
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:39.133974
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167264
+  Longitude: 96.1927462
+  Altitude (m): 15.742
+  Speed (km/h): 0.84
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8166875
+  Longitude: 96.192749167
+  Altitude (m): 3.8
+  Speed (km/h): 0.33
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:39.139232
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167264
+  Longitude: 96.1927462
+  Altitude (m): 15.742
+  Speed (km/h): 0.84
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8166875
+  Longitude: 96.192749167
+  Altitude (m): 3.8
+  Speed (km/h): 0.33
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:39.142800
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167264
+  Longitude: 96.1927462
+  Altitude (m): 15.742
+  Speed (km/h): 0.84
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8166875
+  Longitude: 96.192749167
+  Altitude (m): 3.8
+  Speed (km/h): 0.33
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:39.145619
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167264
+  Longitude: 96.1927462
+  Altitude (m): 15.742
+  Speed (km/h): 0.84
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816689167
+  Longitude: 96.192744667
+  Altitude (m): 3.4
+  Speed (km/h): 1.18
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:40.138194
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167275
+  Longitude: 96.1927447
+  Altitude (m): 15.463
+  Speed (km/h): 0.7
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816689167
+  Longitude: 96.192744667
+  Altitude (m): 3.4
+  Speed (km/h): 1.18
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:40.142412
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167275
+  Longitude: 96.1927447
+  Altitude (m): 15.463
+  Speed (km/h): 0.7
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816689167
+  Longitude: 96.192744667
+  Altitude (m): 3.4
+  Speed (km/h): 1.18
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:40.148083
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167275
+  Longitude: 96.1927447
+  Altitude (m): 15.463
+  Speed (km/h): 0.7
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816689167
+  Longitude: 96.192744667
+  Altitude (m): 3.4
+  Speed (km/h): 1.18
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:40.150905
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167275
+  Longitude: 96.1927447
+  Altitude (m): 15.463
+  Speed (km/h): 0.7
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.81669
+  Longitude: 96.1927425
+  Altitude (m): 3.5
+  Speed (km/h): 0.44
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:41.129954
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167278
+  Longitude: 96.1927445
+  Altitude (m): 15.314
+  Speed (km/h): 0.25
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.81669
+  Longitude: 96.1927425
+  Altitude (m): 3.5
+  Speed (km/h): 0.44
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:41.133622
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167278
+  Longitude: 96.1927445
+  Altitude (m): 15.314
+  Speed (km/h): 0.25
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.81669
+  Longitude: 96.1927425
+  Altitude (m): 3.5
+  Speed (km/h): 0.44
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:41.142591
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167278
+  Longitude: 96.1927445
+  Altitude (m): 15.314
+  Speed (km/h): 0.25
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.81669
+  Longitude: 96.1927425
+  Altitude (m): 3.5
+  Speed (km/h): 0.44
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:41.145494
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167278
+  Longitude: 96.1927445
+  Altitude (m): 15.314
+  Speed (km/h): 0.25
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816690167
+  Longitude: 96.192743
+  Altitude (m): 3.9
+  Speed (km/h): 0.41
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:42.136171
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167266
+  Longitude: 96.1927451
+  Altitude (m): 15.573
+  Speed (km/h): 0.62
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816690167
+  Longitude: 96.192743
+  Altitude (m): 3.9
+  Speed (km/h): 0.41
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:42.139677
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167266
+  Longitude: 96.1927451
+  Altitude (m): 15.573
+  Speed (km/h): 0.62
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816690167
+  Longitude: 96.192743
+  Altitude (m): 3.9
+  Speed (km/h): 0.41
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:42.142921
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167266
+  Longitude: 96.1927451
+  Altitude (m): 15.573
+  Speed (km/h): 0.62
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816690833
+  Longitude: 96.192741167
+  Altitude (m): 3.8
+  Speed (km/h): 0.54
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:42.145696
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167266
+  Longitude: 96.1927451
+  Altitude (m): 15.573
+  Speed (km/h): 0.62
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816690833
+  Longitude: 96.192741167
+  Altitude (m): 3.8
+  Speed (km/h): 0.54
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:43.135852
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167254
+  Longitude: 96.1927448
+  Altitude (m): 15.738
+  Speed (km/h): 0.8
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816690833
+  Longitude: 96.192741167
+  Altitude (m): 3.8
+  Speed (km/h): 0.54
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:43.140633
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167254
+  Longitude: 96.1927448
+  Altitude (m): 15.738
+  Speed (km/h): 0.8
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816690833
+  Longitude: 96.192741167
+  Altitude (m): 3.8
+  Speed (km/h): 0.54
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:43.146705
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167254
+  Longitude: 96.1927448
+  Altitude (m): 15.738
+  Speed (km/h): 0.8
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816690833
+  Longitude: 96.192741167
+  Altitude (m): 3.8
+  Speed (km/h): 0.54
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:43.149646
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167254
+  Longitude: 96.1927448
+  Altitude (m): 15.738
+  Speed (km/h): 0.8
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816690833
+  Longitude: 96.1927405
+  Altitude (m): 3.7
+  Speed (km/h): 0.29
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:44.135898
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167256
+  Longitude: 96.1927432
+  Altitude (m): 15.543
+  Speed (km/h): 0.37
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816690833
+  Longitude: 96.1927405
+  Altitude (m): 3.7
+  Speed (km/h): 0.29
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:44.139422
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167256
+  Longitude: 96.1927432
+  Altitude (m): 15.543
+  Speed (km/h): 0.37
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816690833
+  Longitude: 96.1927405
+  Altitude (m): 3.7
+  Speed (km/h): 0.29
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:44.146845
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167256
+  Longitude: 96.1927432
+  Altitude (m): 15.543
+  Speed (km/h): 0.37
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816690833
+  Longitude: 96.1927405
+  Altitude (m): 3.7
+  Speed (km/h): 0.29
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:44.150795
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167256
+  Longitude: 96.1927432
+  Altitude (m): 15.543
+  Speed (km/h): 0.37
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8166895
+  Longitude: 96.192741333
+  Altitude (m): 3.3
+  Speed (km/h): 1.15
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:45.135133
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167249
+  Longitude: 96.192743
+  Altitude (m): 15.584
+  Speed (km/h): 0.48
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8166895
+  Longitude: 96.192741333
+  Altitude (m): 3.3
+  Speed (km/h): 1.15
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:45.139608
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167249
+  Longitude: 96.192743
+  Altitude (m): 15.584
+  Speed (km/h): 0.48
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8166895
+  Longitude: 96.192741333
+  Altitude (m): 3.3
+  Speed (km/h): 1.15
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:45.144359
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167249
+  Longitude: 96.192743
+  Altitude (m): 15.584
+  Speed (km/h): 0.48
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8166895
+  Longitude: 96.192741333
+  Altitude (m): 3.3
+  Speed (km/h): 1.15
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:45.147214
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167249
+  Longitude: 96.192743
+  Altitude (m): 15.584
+  Speed (km/h): 0.48
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.81669
+  Longitude: 96.192743667
+  Altitude (m): 3.8
+  Speed (km/h): 0.56
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:46.134667
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167249
+  Longitude: 96.192743
+  Altitude (m): 15.584
+  Speed (km/h): 0.48
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.81669
+  Longitude: 96.192743667
+  Altitude (m): 3.8
+  Speed (km/h): 0.56
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:46.138341
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167249
+  Longitude: 96.192743
+  Altitude (m): 15.584
+  Speed (km/h): 0.48
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816691
+  Longitude: 96.192744833
+  Altitude (m): 4.2
+  Speed (km/h): 0.4
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:46.144943
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816723
+  Longitude: 96.1927428
+  Altitude (m): 15.863
+  Speed (km/h): 1.06
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816691
+  Longitude: 96.192744833
+  Altitude (m): 4.2
+  Speed (km/h): 0.4
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:46.148182
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816723
+  Longitude: 96.1927428
+  Altitude (m): 15.863
+  Speed (km/h): 1.06
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816691
+  Longitude: 96.192744833
+  Altitude (m): 4.2
+  Speed (km/h): 0.4
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:47.137889
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816723
+  Longitude: 96.1927413
+  Altitude (m): 15.889
+  Speed (km/h): 0.41
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816691
+  Longitude: 96.192744833
+  Altitude (m): 4.2
+  Speed (km/h): 0.4
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:47.142391
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816723
+  Longitude: 96.1927413
+  Altitude (m): 15.889
+  Speed (km/h): 0.41
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816691
+  Longitude: 96.192744833
+  Altitude (m): 4.2
+  Speed (km/h): 0.4
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:47.146870
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816723
+  Longitude: 96.1927413
+  Altitude (m): 15.889
+  Speed (km/h): 0.41
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816691
+  Longitude: 96.192744833
+  Altitude (m): 4.2
+  Speed (km/h): 0.4
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:47.149756
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816723
+  Longitude: 96.1927413
+  Altitude (m): 15.889
+  Speed (km/h): 0.41
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816691333
+  Longitude: 96.192745
+  Altitude (m): 4.1
+  Speed (km/h): 0.51
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:48.147286
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816723
+  Longitude: 96.1927392
+  Altitude (m): 15.586
+  Speed (km/h): 0.48
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816691333
+  Longitude: 96.192745
+  Altitude (m): 4.1
+  Speed (km/h): 0.51
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:48.152482
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816723
+  Longitude: 96.1927392
+  Altitude (m): 15.586
+  Speed (km/h): 0.48
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816691333
+  Longitude: 96.192745
+  Altitude (m): 4.1
+  Speed (km/h): 0.51
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:48.157321
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816723
+  Longitude: 96.1927392
+  Altitude (m): 15.586
+  Speed (km/h): 0.48
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816691333
+  Longitude: 96.192745
+  Altitude (m): 4.1
+  Speed (km/h): 0.51
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:48.161300
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816723
+  Longitude: 96.1927392
+  Altitude (m): 15.586
+  Speed (km/h): 0.48
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816695167
+  Longitude: 96.1927455
+  Altitude (m): 4.9
+  Speed (km/h): 1.01
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:49.152014
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816723
+  Longitude: 96.1927392
+  Altitude (m): 15.586
+  Speed (km/h): 0.48
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816695167
+  Longitude: 96.1927455
+  Altitude (m): 4.9
+  Speed (km/h): 1.01
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:49.155713
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816723
+  Longitude: 96.1927392
+  Altitude (m): 15.586
+  Speed (km/h): 0.48
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816697667
+  Longitude: 96.192745667
+  Altitude (m): 5.2
+  Speed (km/h): 0.32
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:49.158107
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816723
+  Longitude: 96.1927367
+  Altitude (m): 15.283
+  Speed (km/h): 0.63
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816697667
+  Longitude: 96.192745667
+  Altitude (m): 5.2
+  Speed (km/h): 0.32
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:49.161043
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816723
+  Longitude: 96.1927367
+  Altitude (m): 15.283
+  Speed (km/h): 0.63
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816697667
+  Longitude: 96.192745667
+  Altitude (m): 5.2
+  Speed (km/h): 0.32
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:50.127397
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167218
+  Longitude: 96.1927355
+  Altitude (m): 15.309
+  Speed (km/h): 0.94
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816697667
+  Longitude: 96.192745667
+  Altitude (m): 5.2
+  Speed (km/h): 0.32
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:50.130869
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167218
+  Longitude: 96.1927355
+  Altitude (m): 15.309
+  Speed (km/h): 0.94
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816697667
+  Longitude: 96.192745667
+  Altitude (m): 5.2
+  Speed (km/h): 0.32
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:50.138259
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167218
+  Longitude: 96.1927355
+  Altitude (m): 15.309
+  Speed (km/h): 0.94
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816697667
+  Longitude: 96.192745667
+  Altitude (m): 5.2
+  Speed (km/h): 0.32
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:50.142600
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167218
+  Longitude: 96.1927355
+  Altitude (m): 15.309
+  Speed (km/h): 0.94
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816700667
+  Longitude: 96.192746
+  Altitude (m): 5.8
+  Speed (km/h): 0.79
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:51.134439
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167224
+  Longitude: 96.1927359
+  Altitude (m): 15.469
+  Speed (km/h): 0.23
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816700667
+  Longitude: 96.192746
+  Altitude (m): 5.8
+  Speed (km/h): 0.79
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:51.137905
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167224
+  Longitude: 96.1927359
+  Altitude (m): 15.469
+  Speed (km/h): 0.23
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816700667
+  Longitude: 96.192746
+  Altitude (m): 5.8
+  Speed (km/h): 0.79
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:51.145477
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167224
+  Longitude: 96.1927359
+  Altitude (m): 15.469
+  Speed (km/h): 0.23
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816700667
+  Longitude: 96.192746
+  Altitude (m): 5.8
+  Speed (km/h): 0.79
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:51.148432
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167224
+  Longitude: 96.1927359
+  Altitude (m): 15.469
+  Speed (km/h): 0.23
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816704
+  Longitude: 96.192743833
+  Altitude (m): 5.7
+  Speed (km/h): 1.28
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:52.134917
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167211
+  Longitude: 96.1927391
+  Altitude (m): 16.084
+  Speed (km/h): 0.62
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816704
+  Longitude: 96.192743833
+  Altitude (m): 5.7
+  Speed (km/h): 1.28
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:52.139311
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167211
+  Longitude: 96.1927391
+  Altitude (m): 16.084
+  Speed (km/h): 0.62
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816704
+  Longitude: 96.192743833
+  Altitude (m): 5.7
+  Speed (km/h): 1.28
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:52.144542
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167211
+  Longitude: 96.1927391
+  Altitude (m): 16.084
+  Speed (km/h): 0.62
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816704
+  Longitude: 96.192743833
+  Altitude (m): 5.7
+  Speed (km/h): 1.28
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:52.148639
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167211
+  Longitude: 96.1927391
+  Altitude (m): 16.084
+  Speed (km/h): 0.62
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8167045
+  Longitude: 96.192744167
+  Altitude (m): 6.0
+  Speed (km/h): 0.19
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:53.134643
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167217
+  Longitude: 96.1927402
+  Altitude (m): 16.133
+  Speed (km/h): 0.19
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8167045
+  Longitude: 96.192744167
+  Altitude (m): 6.0
+  Speed (km/h): 0.19
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:53.139087
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167217
+  Longitude: 96.1927402
+  Altitude (m): 16.133
+  Speed (km/h): 0.19
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8167045
+  Longitude: 96.192744167
+  Altitude (m): 6.0
+  Speed (km/h): 0.19
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:53.143307
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167217
+  Longitude: 96.1927402
+  Altitude (m): 16.133
+  Speed (km/h): 0.19
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8167045
+  Longitude: 96.192744167
+  Altitude (m): 6.0
+  Speed (km/h): 0.19
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:53.148235
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167217
+  Longitude: 96.1927402
+  Altitude (m): 16.133
+  Speed (km/h): 0.19
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816704333
+  Longitude: 96.192745333
+  Altitude (m): 6.3
+  Speed (km/h): 0.96
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:54.135770
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167225
+  Longitude: 96.1927387
+  Altitude (m): 15.731
+  Speed (km/h): 0.15
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816704333
+  Longitude: 96.192745333
+  Altitude (m): 6.3
+  Speed (km/h): 0.96
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:54.141965
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167225
+  Longitude: 96.1927387
+  Altitude (m): 15.731
+  Speed (km/h): 0.15
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816704333
+  Longitude: 96.192745333
+  Altitude (m): 6.3
+  Speed (km/h): 0.96
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:54.146194
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167225
+  Longitude: 96.1927387
+  Altitude (m): 15.731
+  Speed (km/h): 0.15
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816704333
+  Longitude: 96.192745333
+  Altitude (m): 6.3
+  Speed (km/h): 0.96
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:54.148935
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167225
+  Longitude: 96.1927387
+  Altitude (m): 15.731
+  Speed (km/h): 0.15
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816705167
+  Longitude: 96.192743833
+  Altitude (m): 6.4
+  Speed (km/h): 0.14
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:55.132649
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167218
+  Longitude: 96.1927391
+  Altitude (m): 15.823
+  Speed (km/h): 0.24
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816705167
+  Longitude: 96.192743833
+  Altitude (m): 6.4
+  Speed (km/h): 0.14
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:55.136252
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167218
+  Longitude: 96.1927391
+  Altitude (m): 15.823
+  Speed (km/h): 0.24
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816705167
+  Longitude: 96.192743833
+  Altitude (m): 6.4
+  Speed (km/h): 0.14
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:55.140616
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167218
+  Longitude: 96.1927391
+  Altitude (m): 15.823
+  Speed (km/h): 0.24
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816705167
+  Longitude: 96.192743833
+  Altitude (m): 6.4
+  Speed (km/h): 0.14
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:55.144627
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167218
+  Longitude: 96.1927391
+  Altitude (m): 15.823
+  Speed (km/h): 0.24
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816705833
+  Longitude: 96.192742
+  Altitude (m): 6.2
+  Speed (km/h): 0.14
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:56.134197
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816722
+  Longitude: 96.1927401
+  Altitude (m): 15.904
+  Speed (km/h): 0.3
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816705833
+  Longitude: 96.192742
+  Altitude (m): 6.2
+  Speed (km/h): 0.14
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:56.137628
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816722
+  Longitude: 96.1927401
+  Altitude (m): 15.904
+  Speed (km/h): 0.3
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816705833
+  Longitude: 96.192742
+  Altitude (m): 6.2
+  Speed (km/h): 0.14
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:56.142082
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816722
+  Longitude: 96.1927401
+  Altitude (m): 15.904
+  Speed (km/h): 0.3
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816705833
+  Longitude: 96.192742
+  Altitude (m): 6.2
+  Speed (km/h): 0.14
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:56.145026
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816722
+  Longitude: 96.1927401
+  Altitude (m): 15.904
+  Speed (km/h): 0.3
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816705667
+  Longitude: 96.192744
+  Altitude (m): 6.6
+  Speed (km/h): 1.2
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:57.134713
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816722
+  Longitude: 96.1927401
+  Altitude (m): 15.904
+  Speed (km/h): 0.3
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816705667
+  Longitude: 96.192744
+  Altitude (m): 6.6
+  Speed (km/h): 1.2
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:57.138231
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816722
+  Longitude: 96.1927401
+  Altitude (m): 15.904
+  Speed (km/h): 0.3
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816706
+  Longitude: 96.192743833
+  Altitude (m): 6.5
+  Speed (km/h): 0.45
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:57.140764
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167228
+  Longitude: 96.1927396
+  Altitude (m): 15.752
+  Speed (km/h): 0.08
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816706
+  Longitude: 96.192743833
+  Altitude (m): 6.5
+  Speed (km/h): 0.45
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:57.143995
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167228
+  Longitude: 96.1927396
+  Altitude (m): 15.752
+  Speed (km/h): 0.08
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816706
+  Longitude: 96.192743833
+  Altitude (m): 6.5
+  Speed (km/h): 0.45
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:58.135716
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167233
+  Longitude: 96.19274
+  Altitude (m): 15.725
+  Speed (km/h): 0.31
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816706
+  Longitude: 96.192743833
+  Altitude (m): 6.5
+  Speed (km/h): 0.45
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:58.138701
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167233
+  Longitude: 96.19274
+  Altitude (m): 15.725
+  Speed (km/h): 0.31
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 25, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816706
+  Longitude: 96.192743833
+  Altitude (m): 6.5
+  Speed (km/h): 0.45
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:58.144703
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167233
+  Longitude: 96.19274
+  Altitude (m): 15.725
+  Speed (km/h): 0.31
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 25, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816706
+  Longitude: 96.192743833
+  Altitude (m): 6.5
+  Speed (km/h): 0.45
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:58.147889
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167233
+  Longitude: 96.19274
+  Altitude (m): 15.725
+  Speed (km/h): 0.31
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 25, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8167065
+  Longitude: 96.192742167
+  Altitude (m): 6.1
+  Speed (km/h): 0.24
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:59.133071
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167233
+  Longitude: 96.19274
+  Altitude (m): 15.725
+  Speed (km/h): 0.31
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 25, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8167065
+  Longitude: 96.192742167
+  Altitude (m): 6.1
+  Speed (km/h): 0.24
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:59.138486
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167233
+  Longitude: 96.19274
+  Altitude (m): 15.725
+  Speed (km/h): 0.31
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 25, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8167075
+  Longitude: 96.1927415
+  Altitude (m): 6.1
+  Speed (km/h): 0.23
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:59.141012
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167238
+  Longitude: 96.1927388
+  Altitude (m): 15.392
+  Speed (km/h): 0.29
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 25, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8167075
+  Longitude: 96.1927415
+  Altitude (m): 6.1
+  Speed (km/h): 0.23
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:10:59.144436
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167238
+  Longitude: 96.1927388
+  Altitude (m): 15.392
+  Speed (km/h): 0.29
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8167075
+  Longitude: 96.1927415
+  Altitude (m): 6.1
+  Speed (km/h): 0.23
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:00.142200
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167238
+  Longitude: 96.1927388
+  Altitude (m): 15.392
+  Speed (km/h): 0.29
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8167075
+  Longitude: 96.1927415
+  Altitude (m): 6.1
+  Speed (km/h): 0.23
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:00.146254
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167238
+  Longitude: 96.1927388
+  Altitude (m): 15.392
+  Speed (km/h): 0.29
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816709
+  Longitude: 96.192741167
+  Altitude (m): 6.4
+  Speed (km/h): 0.53
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:00.148899
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167249
+  Longitude: 96.1927376
+  Altitude (m): 15.088
+  Speed (km/h): 0.17
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816709
+  Longitude: 96.192741167
+  Altitude (m): 6.4
+  Speed (km/h): 0.53
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:00.152308
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167249
+  Longitude: 96.1927376
+  Altitude (m): 15.088
+  Speed (km/h): 0.17
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816709
+  Longitude: 96.192741167
+  Altitude (m): 6.4
+  Speed (km/h): 0.53
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:01.136762
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167249
+  Longitude: 96.1927376
+  Altitude (m): 15.088
+  Speed (km/h): 0.17
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816709
+  Longitude: 96.192741167
+  Altitude (m): 6.4
+  Speed (km/h): 0.53
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:01.140561
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167249
+  Longitude: 96.1927376
+  Altitude (m): 15.088
+  Speed (km/h): 0.17
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816712167
+  Longitude: 96.1927385
+  Altitude (m): 6.4
+  Speed (km/h): 1.14
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:01.143326
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816725
+  Longitude: 96.1927376
+  Altitude (m): 14.929
+  Speed (km/h): 0.18
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816712167
+  Longitude: 96.1927385
+  Altitude (m): 6.4
+  Speed (km/h): 1.14
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:01.146135
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816725
+  Longitude: 96.1927376
+  Altitude (m): 14.929
+  Speed (km/h): 0.18
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816712167
+  Longitude: 96.1927385
+  Altitude (m): 6.4
+  Speed (km/h): 1.14
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:02.133887
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167259
+  Longitude: 96.1927368
+  Altitude (m): 14.635
+  Speed (km/h): 0.34
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816712167
+  Longitude: 96.1927385
+  Altitude (m): 6.4
+  Speed (km/h): 1.14
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:02.137780
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167259
+  Longitude: 96.1927368
+  Altitude (m): 14.635
+  Speed (km/h): 0.34
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816712167
+  Longitude: 96.1927385
+  Altitude (m): 6.4
+  Speed (km/h): 1.14
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:02.141365
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167259
+  Longitude: 96.1927368
+  Altitude (m): 14.635
+  Speed (km/h): 0.34
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816712167
+  Longitude: 96.1927385
+  Altitude (m): 6.4
+  Speed (km/h): 1.14
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:02.144217
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167259
+  Longitude: 96.1927368
+  Altitude (m): 14.635
+  Speed (km/h): 0.34
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816712833
+  Longitude: 96.192737
+  Altitude (m): 6.3
+  Speed (km/h): 0.47
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:03.120517
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167264
+  Longitude: 96.1927377
+  Altitude (m): 14.614
+  Speed (km/h): 0.18
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816712833
+  Longitude: 96.192737
+  Altitude (m): 6.3
+  Speed (km/h): 0.47
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:03.124344
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167264
+  Longitude: 96.1927377
+  Altitude (m): 14.614
+  Speed (km/h): 0.18
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816712833
+  Longitude: 96.192737
+  Altitude (m): 6.3
+  Speed (km/h): 0.47
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:03.128379
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167264
+  Longitude: 96.1927377
+  Altitude (m): 14.614
+  Speed (km/h): 0.18
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816712833
+  Longitude: 96.192737
+  Altitude (m): 6.3
+  Speed (km/h): 0.47
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:03.131190
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167264
+  Longitude: 96.1927377
+  Altitude (m): 14.614
+  Speed (km/h): 0.18
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8167145
+  Longitude: 96.192734167
+  Altitude (m): 6.2
+  Speed (km/h): 0.86
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:04.132423
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167264
+  Longitude: 96.1927377
+  Altitude (m): 14.614
+  Speed (km/h): 0.18
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8167145
+  Longitude: 96.192734167
+  Altitude (m): 6.2
+  Speed (km/h): 0.86
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:04.136714
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167264
+  Longitude: 96.1927377
+  Altitude (m): 14.614
+  Speed (km/h): 0.18
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816716
+  Longitude: 96.1927335
+  Altitude (m): 6.6
+  Speed (km/h): 0.8
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:04.140985
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167267
+  Longitude: 96.1927388
+  Altitude (m): 14.663
+  Speed (km/h): 0.15
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816716
+  Longitude: 96.1927335
+  Altitude (m): 6.6
+  Speed (km/h): 0.8
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:04.144374
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167267
+  Longitude: 96.1927388
+  Altitude (m): 14.663
+  Speed (km/h): 0.15
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816716
+  Longitude: 96.1927335
+  Altitude (m): 6.6
+  Speed (km/h): 0.8
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:05.128614
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167267
+  Longitude: 96.1927388
+  Altitude (m): 14.663
+  Speed (km/h): 0.15
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816716
+  Longitude: 96.1927335
+  Altitude (m): 6.6
+  Speed (km/h): 0.8
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:05.133641
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167267
+  Longitude: 96.1927388
+  Altitude (m): 14.663
+  Speed (km/h): 0.15
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816716
+  Longitude: 96.192732167
+  Altitude (m): 6.3
+  Speed (km/h): 0.05
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:05.136326
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816727
+  Longitude: 96.1927396
+  Altitude (m): 14.689
+  Speed (km/h): 0.07
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816716
+  Longitude: 96.192732167
+  Altitude (m): 6.3
+  Speed (km/h): 0.05
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:05.139603
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816727
+  Longitude: 96.1927396
+  Altitude (m): 14.689
+  Speed (km/h): 0.07
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816716
+  Longitude: 96.192732167
+  Altitude (m): 6.3
+  Speed (km/h): 0.05
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:06.135677
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816727
+  Longitude: 96.1927396
+  Altitude (m): 14.689
+  Speed (km/h): 0.07
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816716
+  Longitude: 96.192732167
+  Altitude (m): 6.3
+  Speed (km/h): 0.05
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:06.139301
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816727
+  Longitude: 96.1927396
+  Altitude (m): 14.689
+  Speed (km/h): 0.07
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816716
+  Longitude: 96.192733667
+  Altitude (m): 6.5
+  Speed (km/h): 0.54
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:06.146260
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816727
+  Longitude: 96.1927402
+  Altitude (m): 14.753
+  Speed (km/h): 0.04
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816716
+  Longitude: 96.192733667
+  Altitude (m): 6.5
+  Speed (km/h): 0.54
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:06.149585
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816727
+  Longitude: 96.1927402
+  Altitude (m): 14.753
+  Speed (km/h): 0.04
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816716
+  Longitude: 96.192733667
+  Altitude (m): 6.5
+  Speed (km/h): 0.54
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:07.128468
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816727
+  Longitude: 96.1927402
+  Altitude (m): 14.753
+  Speed (km/h): 0.04
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816716
+  Longitude: 96.192733667
+  Altitude (m): 6.5
+  Speed (km/h): 0.54
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:07.131492
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816727
+  Longitude: 96.1927402
+  Altitude (m): 14.753
+  Speed (km/h): 0.04
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816717833
+  Longitude: 96.192731833
+  Altitude (m): 6.2
+  Speed (km/h): 0.71
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:07.134608
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167281
+  Longitude: 96.1927419
+  Altitude (m): 15.143
+  Speed (km/h): 0.91
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816717833
+  Longitude: 96.192731833
+  Altitude (m): 6.2
+  Speed (km/h): 0.71
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:07.138565
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167281
+  Longitude: 96.1927419
+  Altitude (m): 15.143
+  Speed (km/h): 0.91
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816717833
+  Longitude: 96.192731833
+  Altitude (m): 6.2
+  Speed (km/h): 0.71
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:08.133451
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167281
+  Longitude: 96.1927419
+  Altitude (m): 15.143
+  Speed (km/h): 0.91
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816717833
+  Longitude: 96.192731833
+  Altitude (m): 6.2
+  Speed (km/h): 0.71
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:08.137489
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167281
+  Longitude: 96.1927419
+  Altitude (m): 15.143
+  Speed (km/h): 0.91
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816718667
+  Longitude: 96.192731167
+  Altitude (m): 5.9
+  Speed (km/h): 0.37
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:08.140110
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167286
+  Longitude: 96.1927411
+  Altitude (m): 15.069
+  Speed (km/h): 0.5
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816718667
+  Longitude: 96.192731167
+  Altitude (m): 5.9
+  Speed (km/h): 0.37
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:08.145667
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167286
+  Longitude: 96.1927411
+  Altitude (m): 15.069
+  Speed (km/h): 0.5
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816718667
+  Longitude: 96.192731167
+  Altitude (m): 5.9
+  Speed (km/h): 0.37
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:09.132391
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167286
+  Longitude: 96.1927411
+  Altitude (m): 15.069
+  Speed (km/h): 0.5
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816718667
+  Longitude: 96.192731167
+  Altitude (m): 5.9
+  Speed (km/h): 0.37
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:09.136575
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167286
+  Longitude: 96.1927411
+  Altitude (m): 15.069
+  Speed (km/h): 0.5
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816721833
+  Longitude: 96.192729167
+  Altitude (m): 6.2
+  Speed (km/h): 1.17
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:09.141755
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167282
+  Longitude: 96.1927418
+  Altitude (m): 15.102
+  Speed (km/h): 0.28
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816721833
+  Longitude: 96.192729167
+  Altitude (m): 6.2
+  Speed (km/h): 1.17
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:09.144443
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167282
+  Longitude: 96.1927418
+  Altitude (m): 15.102
+  Speed (km/h): 0.28
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816721833
+  Longitude: 96.192729167
+  Altitude (m): 6.2
+  Speed (km/h): 1.17
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:10.133015
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167282
+  Longitude: 96.1927418
+  Altitude (m): 15.102
+  Speed (km/h): 0.28
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816721833
+  Longitude: 96.192729167
+  Altitude (m): 6.2
+  Speed (km/h): 1.17
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:10.138404
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167282
+  Longitude: 96.1927418
+  Altitude (m): 15.102
+  Speed (km/h): 0.28
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816724167
+  Longitude: 96.192725167
+  Altitude (m): 5.9
+  Speed (km/h): 1.18
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:10.141249
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167278
+  Longitude: 96.1927403
+  Altitude (m): 14.762
+  Speed (km/h): 0.11
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816724167
+  Longitude: 96.192725167
+  Altitude (m): 5.9
+  Speed (km/h): 1.18
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:10.144210
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167278
+  Longitude: 96.1927403
+  Altitude (m): 14.762
+  Speed (km/h): 0.11
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 25, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816724167
+  Longitude: 96.192725167
+  Altitude (m): 5.9
+  Speed (km/h): 1.18
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:11.135372
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167268
+  Longitude: 96.1927429
+  Altitude (m): 15.125
+  Speed (km/h): 0.49
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 25, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816724167
+  Longitude: 96.192725167
+  Altitude (m): 5.9
+  Speed (km/h): 1.18
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:11.139730
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167268
+  Longitude: 96.1927429
+  Altitude (m): 15.125
+  Speed (km/h): 0.49
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816724167
+  Longitude: 96.192725167
+  Altitude (m): 5.9
+  Speed (km/h): 1.18
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:11.143399
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167268
+  Longitude: 96.1927429
+  Altitude (m): 15.125
+  Speed (km/h): 0.49
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816724167
+  Longitude: 96.192725167
+  Altitude (m): 5.9
+  Speed (km/h): 1.18
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:11.149223
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167268
+  Longitude: 96.1927429
+  Altitude (m): 15.125
+  Speed (km/h): 0.49
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816726167
+  Longitude: 96.192725667
+  Altitude (m): 6.5
+  Speed (km/h): 0.58
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:12.133746
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167268
+  Longitude: 96.1927429
+  Altitude (m): 15.125
+  Speed (km/h): 0.49
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816726167
+  Longitude: 96.192725667
+  Altitude (m): 6.5
+  Speed (km/h): 0.58
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:12.137980
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167268
+  Longitude: 96.1927429
+  Altitude (m): 15.125
+  Speed (km/h): 0.49
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816729167
+  Longitude: 96.192722833
+  Altitude (m): 6.5
+  Speed (km/h): 1.63
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:12.140378
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167262
+  Longitude: 96.1927444
+  Altitude (m): 15.51
+  Speed (km/h): 0.35
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816729167
+  Longitude: 96.192722833
+  Altitude (m): 6.5
+  Speed (km/h): 1.63
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:12.143223
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167262
+  Longitude: 96.1927444
+  Altitude (m): 15.51
+  Speed (km/h): 0.35
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816729167
+  Longitude: 96.192722833
+  Altitude (m): 6.5
+  Speed (km/h): 1.63
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:13.138622
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167262
+  Longitude: 96.1927446
+  Altitude (m): 15.508
+  Speed (km/h): 0.26
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816729167
+  Longitude: 96.192722833
+  Altitude (m): 6.5
+  Speed (km/h): 1.63
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:13.143638
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167262
+  Longitude: 96.1927446
+  Altitude (m): 15.508
+  Speed (km/h): 0.26
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816729167
+  Longitude: 96.192722833
+  Altitude (m): 6.5
+  Speed (km/h): 1.63
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:13.147288
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167262
+  Longitude: 96.1927446
+  Altitude (m): 15.508
+  Speed (km/h): 0.26
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816729167
+  Longitude: 96.192722833
+  Altitude (m): 6.5
+  Speed (km/h): 1.63
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:13.150704
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167262
+  Longitude: 96.1927446
+  Altitude (m): 15.508
+  Speed (km/h): 0.26
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816731333
+  Longitude: 96.192719667
+  Altitude (m): 6.3
+  Speed (km/h): 1.41
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:14.133294
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167262
+  Longitude: 96.1927446
+  Altitude (m): 15.508
+  Speed (km/h): 0.26
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816731333
+  Longitude: 96.192719667
+  Altitude (m): 6.3
+  Speed (km/h): 1.41
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:14.136824
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167262
+  Longitude: 96.1927446
+  Altitude (m): 15.508
+  Speed (km/h): 0.26
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8167325
+  Longitude: 96.19272
+  Altitude (m): 7.0
+  Speed (km/h): 0.64
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:14.146423
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167272
+  Longitude: 96.1927466
+  Altitude (m): 16.015
+  Speed (km/h): 0.06
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8167325
+  Longitude: 96.19272
+  Altitude (m): 7.0
+  Speed (km/h): 0.64
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:14.149528
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167272
+  Longitude: 96.1927466
+  Altitude (m): 16.015
+  Speed (km/h): 0.06
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 194, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8167325
+  Longitude: 96.19272
+  Altitude (m): 7.0
+  Speed (km/h): 0.64
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:15.130926
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167272
+  Longitude: 96.1927466
+  Altitude (m): 16.015
+  Speed (km/h): 0.06
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 194, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8167325
+  Longitude: 96.19272
+  Altitude (m): 7.0
+  Speed (km/h): 0.64
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:15.134222
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167272
+  Longitude: 96.1927466
+  Altitude (m): 16.015
+  Speed (km/h): 0.06
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 194, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8167345
+  Longitude: 96.192717667
+  Altitude (m): 7.3
+  Speed (km/h): 1.5
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:15.141551
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167275
+  Longitude: 96.1927467
+  Altitude (m): 15.909
+  Speed (km/h): 0.39
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 194, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8167345
+  Longitude: 96.192717667
+  Altitude (m): 7.3
+  Speed (km/h): 1.5
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:15.145115
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167275
+  Longitude: 96.1927467
+  Altitude (m): 15.909
+  Speed (km/h): 0.39
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8167345
+  Longitude: 96.192717667
+  Altitude (m): 7.3
+  Speed (km/h): 1.5
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:16.129626
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167245
+  Longitude: 96.1927497
+  Altitude (m): 15.844
+  Speed (km/h): 1.85
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8167345
+  Longitude: 96.192717667
+  Altitude (m): 7.3
+  Speed (km/h): 1.5
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:16.134581
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167245
+  Longitude: 96.1927497
+  Altitude (m): 15.844
+  Speed (km/h): 1.85
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8167345
+  Longitude: 96.192717667
+  Altitude (m): 7.3
+  Speed (km/h): 1.5
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:16.142915
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167245
+  Longitude: 96.1927497
+  Altitude (m): 15.844
+  Speed (km/h): 1.85
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8167345
+  Longitude: 96.192717667
+  Altitude (m): 7.3
+  Speed (km/h): 1.5
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:16.152072
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167245
+  Longitude: 96.1927497
+  Altitude (m): 15.844
+  Speed (km/h): 1.85
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816737
+  Longitude: 96.192715167
+  Altitude (m): 7.4
+  Speed (km/h): 1.47
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:17.137094
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167237
+  Longitude: 96.1927524
+  Altitude (m): 15.931
+  Speed (km/h): 0.97
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816737
+  Longitude: 96.192715167
+  Altitude (m): 7.4
+  Speed (km/h): 1.47
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:17.139668
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167237
+  Longitude: 96.1927524
+  Altitude (m): 15.931
+  Speed (km/h): 0.97
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816737
+  Longitude: 96.192715167
+  Altitude (m): 7.4
+  Speed (km/h): 1.47
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:17.142016
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167237
+  Longitude: 96.1927524
+  Altitude (m): 15.931
+  Speed (km/h): 0.97
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816735833
+  Longitude: 96.192716333
+  Altitude (m): 8.2
+  Speed (km/h): 0.89
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:17.143474
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167237
+  Longitude: 96.1927524
+  Altitude (m): 15.931
+  Speed (km/h): 0.97
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816735833
+  Longitude: 96.192716333
+  Altitude (m): 8.2
+  Speed (km/h): 0.89
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:18.132527
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816724
+  Longitude: 96.1927523
+  Altitude (m): 15.542
+  Speed (km/h): 0.19
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816735833
+  Longitude: 96.192716333
+  Altitude (m): 8.2
+  Speed (km/h): 0.89
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:18.134507
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816724
+  Longitude: 96.1927523
+  Altitude (m): 15.542
+  Speed (km/h): 0.19
+  Satellites: 14
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816735833
+  Longitude: 96.192716333
+  Altitude (m): 8.2
+  Speed (km/h): 0.89
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:18.140003
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816724
+  Longitude: 96.1927523
+  Altitude (m): 15.542
+  Speed (km/h): 0.19
+  Satellites: 14
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816735833
+  Longitude: 96.192716333
+  Altitude (m): 8.2
+  Speed (km/h): 0.89
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:18.142433
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816724
+  Longitude: 96.1927523
+  Altitude (m): 15.542
+  Speed (km/h): 0.19
+  Satellites: 14
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8167345
+  Longitude: 96.192717167
+  Altitude (m): 9.1
+  Speed (km/h): 1.14
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:19.132419
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816724
+  Longitude: 96.1927523
+  Altitude (m): 15.542
+  Speed (km/h): 0.19
+  Satellites: 14
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8167345
+  Longitude: 96.192717167
+  Altitude (m): 9.1
+  Speed (km/h): 1.14
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:19.134665
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816724
+  Longitude: 96.1927523
+  Altitude (m): 15.542
+  Speed (km/h): 0.19
+  Satellites: 14
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816734167
+  Longitude: 96.1927175
+  Altitude (m): 9.1
+  Speed (km/h): 0.45
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:19.137684
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167206
+  Longitude: 96.1927524
+  Altitude (m): 14.808
+  Speed (km/h): 2.31
+  Satellites: 14
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816734167
+  Longitude: 96.1927175
+  Altitude (m): 9.1
+  Speed (km/h): 0.45
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:19.141494
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167206
+  Longitude: 96.1927524
+  Altitude (m): 14.808
+  Speed (km/h): 2.31
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816734167
+  Longitude: 96.1927175
+  Altitude (m): 9.1
+  Speed (km/h): 0.45
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:20.132552
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167181
+  Longitude: 96.1927526
+  Altitude (m): 14.344
+  Speed (km/h): 0.63
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816734167
+  Longitude: 96.1927175
+  Altitude (m): 9.1
+  Speed (km/h): 0.45
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:20.134962
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167181
+  Longitude: 96.1927526
+  Altitude (m): 14.344
+  Speed (km/h): 0.63
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816734167
+  Longitude: 96.1927175
+  Altitude (m): 9.1
+  Speed (km/h): 0.45
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:20.137301
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167181
+  Longitude: 96.1927526
+  Altitude (m): 14.344
+  Speed (km/h): 0.63
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816734167
+  Longitude: 96.1927175
+  Altitude (m): 9.1
+  Speed (km/h): 0.45
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:20.139248
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167181
+  Longitude: 96.1927526
+  Altitude (m): 14.344
+  Speed (km/h): 0.63
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816732833
+  Longitude: 96.192718167
+  Altitude (m): 9.2
+  Speed (km/h): 0.64
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:21.127527
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167161
+  Longitude: 96.1927536
+  Altitude (m): 14.556
+  Speed (km/h): 0.58
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816732833
+  Longitude: 96.192718167
+  Altitude (m): 9.2
+  Speed (km/h): 0.64
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:21.130362
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167161
+  Longitude: 96.1927536
+  Altitude (m): 14.556
+  Speed (km/h): 0.58
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816732833
+  Longitude: 96.192718167
+  Altitude (m): 9.2
+  Speed (km/h): 0.64
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:21.132878
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167161
+  Longitude: 96.1927536
+  Altitude (m): 14.556
+  Speed (km/h): 0.58
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816732833
+  Longitude: 96.192718167
+  Altitude (m): 9.2
+  Speed (km/h): 0.64
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:21.134429
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167161
+  Longitude: 96.1927536
+  Altitude (m): 14.556
+  Speed (km/h): 0.58
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816732667
+  Longitude: 96.192720167
+  Altitude (m): 9.6
+  Speed (km/h): 0.27
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:22.134965
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167153
+  Longitude: 96.1927536
+  Altitude (m): 14.452
+  Speed (km/h): 0.27
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816732667
+  Longitude: 96.192720167
+  Altitude (m): 9.6
+  Speed (km/h): 0.27
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:22.138359
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167153
+  Longitude: 96.1927536
+  Altitude (m): 14.452
+  Speed (km/h): 0.27
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816732667
+  Longitude: 96.192720167
+  Altitude (m): 9.6
+  Speed (km/h): 0.27
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:22.147842
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167153
+  Longitude: 96.1927536
+  Altitude (m): 14.452
+  Speed (km/h): 0.27
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816732667
+  Longitude: 96.192720167
+  Altitude (m): 9.6
+  Speed (km/h): 0.27
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:22.150790
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167153
+  Longitude: 96.1927536
+  Altitude (m): 14.452
+  Speed (km/h): 0.27
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816731333
+  Longitude: 96.192720333
+  Altitude (m): 9.1
+  Speed (km/h): 0.58
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:23.135134
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167144
+  Longitude: 96.1927533
+  Altitude (m): 14.309
+  Speed (km/h): 0.36
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816731333
+  Longitude: 96.192720333
+  Altitude (m): 9.1
+  Speed (km/h): 0.58
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:23.141329
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167144
+  Longitude: 96.1927533
+  Altitude (m): 14.309
+  Speed (km/h): 0.36
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816731333
+  Longitude: 96.192720333
+  Altitude (m): 9.1
+  Speed (km/h): 0.58
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:23.146487
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167144
+  Longitude: 96.1927533
+  Altitude (m): 14.309
+  Speed (km/h): 0.36
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816731333
+  Longitude: 96.192720333
+  Altitude (m): 9.1
+  Speed (km/h): 0.58
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:23.149203
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167144
+  Longitude: 96.1927533
+  Altitude (m): 14.309
+  Speed (km/h): 0.36
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816728167
+  Longitude: 96.192724667
+  Altitude (m): 9.1
+  Speed (km/h): 1.83
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:24.136016
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167145
+  Longitude: 96.1927563
+  Altitude (m): 14.676
+  Speed (km/h): 0.38
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816728167
+  Longitude: 96.192724667
+  Altitude (m): 9.1
+  Speed (km/h): 1.83
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:24.139988
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167145
+  Longitude: 96.1927563
+  Altitude (m): 14.676
+  Speed (km/h): 0.38
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816728167
+  Longitude: 96.192724667
+  Altitude (m): 9.1
+  Speed (km/h): 1.83
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:24.146139
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167145
+  Longitude: 96.1927563
+  Altitude (m): 14.676
+  Speed (km/h): 0.38
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816728167
+  Longitude: 96.192724667
+  Altitude (m): 9.1
+  Speed (km/h): 1.83
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:24.149623
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167145
+  Longitude: 96.1927563
+  Altitude (m): 14.676
+  Speed (km/h): 0.38
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816727
+  Longitude: 96.1927255
+  Altitude (m): 8.9
+  Speed (km/h): 0.42
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:25.127804
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167135
+  Longitude: 96.1927583
+  Altitude (m): 14.848
+  Speed (km/h): 0.31
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816727
+  Longitude: 96.1927255
+  Altitude (m): 8.9
+  Speed (km/h): 0.42
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:25.131876
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167135
+  Longitude: 96.1927583
+  Altitude (m): 14.848
+  Speed (km/h): 0.31
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816727
+  Longitude: 96.1927255
+  Altitude (m): 8.9
+  Speed (km/h): 0.42
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:25.137075
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167135
+  Longitude: 96.1927583
+  Altitude (m): 14.848
+  Speed (km/h): 0.31
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816727
+  Longitude: 96.1927255
+  Altitude (m): 8.9
+  Speed (km/h): 0.42
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:25.140958
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167135
+  Longitude: 96.1927583
+  Altitude (m): 14.848
+  Speed (km/h): 0.31
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8167275
+  Longitude: 96.192725333
+  Altitude (m): 8.8
+  Speed (km/h): 0.62
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:26.132743
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167146
+  Longitude: 96.192762
+  Altitude (m): 15.473
+  Speed (km/h): 0.49
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8167275
+  Longitude: 96.192725333
+  Altitude (m): 8.8
+  Speed (km/h): 0.62
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:26.134832
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167146
+  Longitude: 96.192762
+  Altitude (m): 15.473
+  Speed (km/h): 0.49
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8167275
+  Longitude: 96.192725333
+  Altitude (m): 8.8
+  Speed (km/h): 0.62
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:26.144985
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167146
+  Longitude: 96.192762
+  Altitude (m): 15.473
+  Speed (km/h): 0.49
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8167275
+  Longitude: 96.192725333
+  Altitude (m): 8.8
+  Speed (km/h): 0.62
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:26.146356
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167146
+  Longitude: 96.192762
+  Altitude (m): 15.473
+  Speed (km/h): 0.49
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816727333
+  Longitude: 96.192725333
+  Altitude (m): 8.4
+  Speed (km/h): 0.23
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:27.137551
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167155
+  Longitude: 96.192764
+  Altitude (m): 15.793
+  Speed (km/h): 0.26
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816727333
+  Longitude: 96.192725333
+  Altitude (m): 8.4
+  Speed (km/h): 0.23
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:27.140574
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167155
+  Longitude: 96.192764
+  Altitude (m): 15.793
+  Speed (km/h): 0.26
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816727333
+  Longitude: 96.192725333
+  Altitude (m): 8.4
+  Speed (km/h): 0.23
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:27.147884
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167155
+  Longitude: 96.192764
+  Altitude (m): 15.793
+  Speed (km/h): 0.26
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816727333
+  Longitude: 96.192725333
+  Altitude (m): 8.4
+  Speed (km/h): 0.23
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:27.149193
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167155
+  Longitude: 96.192764
+  Altitude (m): 15.793
+  Speed (km/h): 0.26
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816726167
+  Longitude: 96.192727333
+  Altitude (m): 8.5
+  Speed (km/h): 0.05
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:28.133573
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167165
+  Longitude: 96.1927637
+  Altitude (m): 15.774
+  Speed (km/h): 0.19
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816726167
+  Longitude: 96.192727333
+  Altitude (m): 8.5
+  Speed (km/h): 0.05
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:28.135780
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167165
+  Longitude: 96.1927637
+  Altitude (m): 15.774
+  Speed (km/h): 0.19
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 25, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816726167
+  Longitude: 96.192727333
+  Altitude (m): 8.5
+  Speed (km/h): 0.05
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:28.141383
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167165
+  Longitude: 96.1927637
+  Altitude (m): 15.774
+  Speed (km/h): 0.19
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 25, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816726167
+  Longitude: 96.192727333
+  Altitude (m): 8.5
+  Speed (km/h): 0.05
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:28.143392
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167165
+  Longitude: 96.1927637
+  Altitude (m): 15.774
+  Speed (km/h): 0.19
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 25, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816725333
+  Longitude: 96.192726167
+  Altitude (m): 7.8
+  Speed (km/h): 0.24
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:29.132661
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167173
+  Longitude: 96.192764
+  Altitude (m): 15.815
+  Speed (km/h): 0.16
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 25, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816725333
+  Longitude: 96.192726167
+  Altitude (m): 7.8
+  Speed (km/h): 0.24
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:29.134653
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167173
+  Longitude: 96.192764
+  Altitude (m): 15.815
+  Speed (km/h): 0.16
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816725333
+  Longitude: 96.192726167
+  Altitude (m): 7.8
+  Speed (km/h): 0.24
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:29.144983
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167173
+  Longitude: 96.192764
+  Altitude (m): 15.815
+  Speed (km/h): 0.16
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816725333
+  Longitude: 96.192726167
+  Altitude (m): 7.8
+  Speed (km/h): 0.24
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:29.147605
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167173
+  Longitude: 96.192764
+  Altitude (m): 15.815
+  Speed (km/h): 0.16
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816725167
+  Longitude: 96.192723333
+  Altitude (m): 7.1
+  Speed (km/h): 0.96
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:30.145306
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167171
+  Longitude: 96.1927633
+  Altitude (m): 15.484
+  Speed (km/h): 0.14
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816725167
+  Longitude: 96.192723333
+  Altitude (m): 7.1
+  Speed (km/h): 0.96
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:30.147370
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167171
+  Longitude: 96.1927633
+  Altitude (m): 15.484
+  Speed (km/h): 0.14
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816725167
+  Longitude: 96.192723333
+  Altitude (m): 7.1
+  Speed (km/h): 0.96
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:30.154821
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167171
+  Longitude: 96.1927633
+  Altitude (m): 15.484
+  Speed (km/h): 0.14
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816725167
+  Longitude: 96.192723333
+  Altitude (m): 7.1
+  Speed (km/h): 0.96
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:30.156149
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167171
+  Longitude: 96.1927633
+  Altitude (m): 15.484
+  Speed (km/h): 0.14
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816723
+  Longitude: 96.192724
+  Altitude (m): 6.9
+  Speed (km/h): 0.37
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:31.141045
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167188
+  Longitude: 96.1927641
+  Altitude (m): 15.531
+  Speed (km/h): 0.4
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816723
+  Longitude: 96.192724
+  Altitude (m): 6.9
+  Speed (km/h): 0.37
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:31.146387
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167188
+  Longitude: 96.1927641
+  Altitude (m): 15.531
+  Speed (km/h): 0.4
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816723
+  Longitude: 96.192724
+  Altitude (m): 6.9
+  Speed (km/h): 0.37
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:31.149706
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167188
+  Longitude: 96.1927641
+  Altitude (m): 15.531
+  Speed (km/h): 0.4
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816723
+  Longitude: 96.192724
+  Altitude (m): 6.9
+  Speed (km/h): 0.37
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:31.152481
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167188
+  Longitude: 96.1927641
+  Altitude (m): 15.531
+  Speed (km/h): 0.4
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816720333
+  Longitude: 96.192725
+  Altitude (m): 6.8
+  Speed (km/h): 0.62
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+
+=== Application Ended at: 2025-06-10 14:41:31 ===
+GPS Data (Real-Time): 2025-06-10 08:11:32.141340
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167193
+  Longitude: 96.1927653
+  Altitude (m): 15.694
+  Speed (km/h): 0.18
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 29, 41, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816720333
+  Longitude: 96.192725
+  Altitude (m): 6.8
+  Speed (km/h): 0.62
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:32.146001
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167193
+  Longitude: 96.1927653
+  Altitude (m): 15.694
+  Speed (km/h): 0.18
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 29, 41, 194, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816720333
+  Longitude: 96.192725
+  Altitude (m): 6.8
+  Speed (km/h): 0.62
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:32.151137
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167193
+  Longitude: 96.1927653
+  Altitude (m): 15.694
+  Speed (km/h): 0.18
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 29, 41, 194, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816720333
+  Longitude: 96.192725
+  Altitude (m): 6.8
+  Speed (km/h): 0.62
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:32.154851
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167193
+  Longitude: 96.1927653
+  Altitude (m): 15.694
+  Speed (km/h): 0.18
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 29, 41, 194, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816718667
+  Longitude: 96.192725333
+  Altitude (m): 6.2
+  Speed (km/h): 0.58
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:33.142032
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167193
+  Longitude: 96.1927653
+  Altitude (m): 15.694
+  Speed (km/h): 0.18
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 29, 41, 194, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816718667
+  Longitude: 96.192725333
+  Altitude (m): 6.2
+  Speed (km/h): 0.58
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:33.148155
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167193
+  Longitude: 96.1927653
+  Altitude (m): 15.694
+  Speed (km/h): 0.18
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 29, 41, 194, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8167185
+  Longitude: 96.192725333
+  Altitude (m): 5.9
+  Speed (km/h): 0.57
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:33.151441
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167197
+  Longitude: 96.1927661
+  Altitude (m): 15.674
+  Speed (km/h): 0.53
+  Satellites: 15
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 29, 41, 194, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8167185
+  Longitude: 96.192725333
+  Altitude (m): 5.9
+  Speed (km/h): 0.57
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:33.154620
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.8167197
+  Longitude: 96.1927661
+  Altitude (m): 15.674
+  Speed (km/h): 0.53
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 194, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8167185
+  Longitude: 96.192725333
+  Altitude (m): 5.9
+  Speed (km/h): 0.57
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:34.137349
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816721
+  Longitude: 96.1927672
+  Altitude (m): 15.812
+  Speed (km/h): 0.09
+  Satellites: 16
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 24, 29, 41, 194, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8167185
+  Longitude: 96.192725333
+  Altitude (m): 5.9
+  Speed (km/h): 0.57
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:34.139878
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816721
+  Longitude: 96.1927672
+  Altitude (m): 15.812
+  Speed (km/h): 0.09
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 194, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8167185
+  Longitude: 96.192725333
+  Altitude (m): 5.9
+  Speed (km/h): 0.57
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:34.142022
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816721
+  Longitude: 96.1927672
+  Altitude (m): 15.812
+  Speed (km/h): 0.09
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 194, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.8167185
+  Longitude: 96.192725333
+  Altitude (m): 5.9
+  Speed (km/h): 0.57
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
+GPS Data (Real-Time): 2025-06-10 08:11:34.143523
+Ship ID: SHIP456
+Device ID: 10000000aef69bb0
+Heading: 93.6
+Top GPS (/dev/ttyACM0):
+  Latitude: 16.816721
+  Longitude: 96.1927672
+  Altitude (m): 15.812
+  Speed (km/h): 0.09
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 29, 41, 194, 195, 196, 66, 67, 81, 88
+Bottom GPS (/dev/ttyACM1):
+  Latitude: 16.816724667
+  Longitude: 96.192725
+  Altitude (m): 5.1
+  Speed (km/h): 3.67
+  Satellites: 17
+  Satellite PRNs: 5, 11, 13, 15, 18, 20, 23, 24, 25, 29, 41, 66, 67, 68, 81, 82, 88
+---------------------------
