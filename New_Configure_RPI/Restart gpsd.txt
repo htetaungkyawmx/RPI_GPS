@@ -1,0 +1,2 @@
+sudo systemctl enable gpsd.service
+sudo systemctl restart gpsd.service

@@ -1,0 +1,2 @@
+ls -l /dev/ttyACM*
+sudo dmesg | grep ttyACM

@@ -1,0 +1,8 @@
+sudo nano /etc/default/gpsd
+
+
+START_DAEMON="true"
+GPSD_OPTIONS="-n -F /var/run/gpsd.sock -G 127.0.0.1 -b -D 3"
+DEVICES="/dev/ttyACM0 /dev/ttyACM1"
+USBAUTO="false"
+GPSD_SOCKET="/var/run/gpsd.sock"

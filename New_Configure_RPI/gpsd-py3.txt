@@ -1,0 +1,8 @@
+python3 -c "import gps; print(gps.__file__)"
+pip list | grep gps
+dpkg -l | grep gps
+tail -n 100 /home/mdt/GPS/gps_websocket.log
+journalctl -u gpsd.service -b
+cgps -s
+ls -l /dev/ttyACM*
+sudo dmesg | grep ttyACM
