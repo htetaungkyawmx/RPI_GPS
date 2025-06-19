@@ -101,11 +101,11 @@ This document outlines the process to configure a Raspberry Pi to work with USB-
    sudo mkdir -p /home/pi/GPS
    sudo chown pi:pi /home/pi/GPS
    ```
-2. **Create `gps_websocket.py`**:
+2. **Create `gps_data.py`**:
    ```bash
-   sudo nano /home/pi/gps_websocket.py
+   sudo nano /home/pi/gps_data.py
    ```
-   - Copy the `gps_websocket.py` content (provided previously) into the file.
+   - Copy the `gps_data.py` content (provided previously) into the file.
    - Key features:
      - Interfaces with GPS modules via `gpsd`.
      - Logs data to `/home/pi/GPS/gps_data_<timestamp>.txt`.
@@ -113,8 +113,8 @@ This document outlines the process to configure a Raspberry Pi to work with USB-
      - Serves data via WebSocket (`ws://<IP>:8765`) and HTTP (`http://<IP>:8082/gps`).
    - Save and set permissions:
      ```bash
-     sudo chmod +x /home/pi/gps_websocket.py
-     sudo chown pi:pi /home/pi/gps_websocket.py
+     sudo chmod +x /home/pi/gps_data.py
+     sudo chown pi:pi /home/pi/gps_data.py
      ```
 3. **Create `requirements.txt`**:
    ```bash
@@ -157,7 +157,7 @@ This document outlines the process to configure a Raspberry Pi to work with USB-
      After=network.target gpsd.service
 
      [Service]
-     ExecStart=/home/pi/gps_venv/bin/python3 /home/pi/gps_websocket.py
+     ExecStart=/home/pi/gps_venv/bin/python3 /home/pi/gps_data.py
      WorkingDirectory=/home/pi
      StandardOutput=inherit
      StandardError=inherit
